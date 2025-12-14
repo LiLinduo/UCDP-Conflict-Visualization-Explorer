@@ -1,0 +1,7778 @@
+[
+  {
+    "year": 1989,
+    "month": 1,
+    "type": 1,
+    "deaths": 10870
+  },
+  {
+    "year": 1989,
+    "month": 1,
+    "type": 2,
+    "deaths": 1769
+  },
+  {
+    "year": 1989,
+    "month": 1,
+    "type": 3,
+    "deaths": 945
+  },
+  {
+    "year": 1989,
+    "month": 2,
+    "type": 1,
+    "deaths": 10690
+  },
+  {
+    "year": 1989,
+    "month": 2,
+    "type": 2,
+    "deaths": 80
+  },
+  {
+    "year": 1989,
+    "month": 2,
+    "type": 3,
+    "deaths": 823
+  },
+  {
+    "year": 1989,
+    "month": 3,
+    "type": 1,
+    "deaths": 6569
+  },
+  {
+    "year": 1989,
+    "month": 3,
+    "type": 2,
+    "deaths": 95
+  },
+  {
+    "year": 1989,
+    "month": 3,
+    "type": 3,
+    "deaths": 299
+  },
+  {
+    "year": 1989,
+    "month": 4,
+    "type": 1,
+    "deaths": 3078
+  },
+  {
+    "year": 1989,
+    "month": 4,
+    "type": 2,
+    "deaths": 268
+  },
+  {
+    "year": 1989,
+    "month": 4,
+    "type": 3,
+    "deaths": 325
+  },
+  {
+    "year": 1989,
+    "month": 5,
+    "type": 1,
+    "deaths": 2482
+  },
+  {
+    "year": 1989,
+    "month": 5,
+    "type": 2,
+    "deaths": 545
+  },
+  {
+    "year": 1989,
+    "month": 5,
+    "type": 3,
+    "deaths": 119
+  },
+  {
+    "year": 1989,
+    "month": 6,
+    "type": 1,
+    "deaths": 1860
+  },
+  {
+    "year": 1989,
+    "month": 6,
+    "type": 2,
+    "deaths": 154
+  },
+  {
+    "year": 1989,
+    "month": 6,
+    "type": 3,
+    "deaths": 2799
+  },
+  {
+    "year": 1989,
+    "month": 7,
+    "type": 1,
+    "deaths": 1377
+  },
+  {
+    "year": 1989,
+    "month": 7,
+    "type": 2,
+    "deaths": 67
+  },
+  {
+    "year": 1989,
+    "month": 7,
+    "type": 3,
+    "deaths": 225
+  },
+  {
+    "year": 1989,
+    "month": 8,
+    "type": 1,
+    "deaths": 2151
+  },
+  {
+    "year": 1989,
+    "month": 8,
+    "type": 2,
+    "deaths": 335
+  },
+  {
+    "year": 1989,
+    "month": 8,
+    "type": 3,
+    "deaths": 256
+  },
+  {
+    "year": 1989,
+    "month": 9,
+    "type": 1,
+    "deaths": 1949
+  },
+  {
+    "year": 1989,
+    "month": 9,
+    "type": 2,
+    "deaths": 63
+  },
+  {
+    "year": 1989,
+    "month": 9,
+    "type": 3,
+    "deaths": 449
+  },
+  {
+    "year": 1989,
+    "month": 10,
+    "type": 1,
+    "deaths": 5907
+  },
+  {
+    "year": 1989,
+    "month": 10,
+    "type": 2,
+    "deaths": 422
+  },
+  {
+    "year": 1989,
+    "month": 10,
+    "type": 3,
+    "deaths": 143
+  },
+  {
+    "year": 1989,
+    "month": 11,
+    "type": 1,
+    "deaths": 4092
+  },
+  {
+    "year": 1989,
+    "month": 11,
+    "type": 2,
+    "deaths": 86
+  },
+  {
+    "year": 1989,
+    "month": 11,
+    "type": 3,
+    "deaths": 335
+  },
+  {
+    "year": 1989,
+    "month": 12,
+    "type": 1,
+    "deaths": 4268
+  },
+  {
+    "year": 1989,
+    "month": 12,
+    "type": 2,
+    "deaths": 341
+  },
+  {
+    "year": 1989,
+    "month": 12,
+    "type": 3,
+    "deaths": 1474
+  },
+  {
+    "year": 1990,
+    "month": 1,
+    "type": 1,
+    "deaths": 12919
+  },
+  {
+    "year": 1990,
+    "month": 1,
+    "type": 2,
+    "deaths": 353
+  },
+  {
+    "year": 1990,
+    "month": 1,
+    "type": 3,
+    "deaths": 1310
+  },
+  {
+    "year": 1990,
+    "month": 2,
+    "type": 1,
+    "deaths": 4981
+  },
+  {
+    "year": 1990,
+    "month": 2,
+    "type": 2,
+    "deaths": 674
+  },
+  {
+    "year": 1990,
+    "month": 2,
+    "type": 3,
+    "deaths": 162
+  },
+  {
+    "year": 1990,
+    "month": 3,
+    "type": 1,
+    "deaths": 10921
+  },
+  {
+    "year": 1990,
+    "month": 3,
+    "type": 2,
+    "deaths": 447
+  },
+  {
+    "year": 1990,
+    "month": 3,
+    "type": 3,
+    "deaths": 334
+  },
+  {
+    "year": 1990,
+    "month": 4,
+    "type": 1,
+    "deaths": 13806
+  },
+  {
+    "year": 1990,
+    "month": 4,
+    "type": 2,
+    "deaths": 429
+  },
+  {
+    "year": 1990,
+    "month": 4,
+    "type": 3,
+    "deaths": 354
+  },
+  {
+    "year": 1990,
+    "month": 5,
+    "type": 1,
+    "deaths": 11841
+  },
+  {
+    "year": 1990,
+    "month": 5,
+    "type": 2,
+    "deaths": 259
+  },
+  {
+    "year": 1990,
+    "month": 5,
+    "type": 3,
+    "deaths": 844
+  },
+  {
+    "year": 1990,
+    "month": 6,
+    "type": 1,
+    "deaths": 5208
+  },
+  {
+    "year": 1990,
+    "month": 6,
+    "type": 2,
+    "deaths": 228
+  },
+  {
+    "year": 1990,
+    "month": 6,
+    "type": 3,
+    "deaths": 741
+  },
+  {
+    "year": 1990,
+    "month": 7,
+    "type": 1,
+    "deaths": 3372
+  },
+  {
+    "year": 1990,
+    "month": 7,
+    "type": 2,
+    "deaths": 280
+  },
+  {
+    "year": 1990,
+    "month": 7,
+    "type": 3,
+    "deaths": 1490
+  },
+  {
+    "year": 1990,
+    "month": 8,
+    "type": 1,
+    "deaths": 2772
+  },
+  {
+    "year": 1990,
+    "month": 8,
+    "type": 2,
+    "deaths": 379
+  },
+  {
+    "year": 1990,
+    "month": 8,
+    "type": 3,
+    "deaths": 2370
+  },
+  {
+    "year": 1990,
+    "month": 9,
+    "type": 1,
+    "deaths": 3942
+  },
+  {
+    "year": 1990,
+    "month": 9,
+    "type": 2,
+    "deaths": 366
+  },
+  {
+    "year": 1990,
+    "month": 9,
+    "type": 3,
+    "deaths": 372
+  },
+  {
+    "year": 1990,
+    "month": 10,
+    "type": 1,
+    "deaths": 4122
+  },
+  {
+    "year": 1990,
+    "month": 10,
+    "type": 2,
+    "deaths": 1258
+  },
+  {
+    "year": 1990,
+    "month": 10,
+    "type": 3,
+    "deaths": 1790
+  },
+  {
+    "year": 1990,
+    "month": 11,
+    "type": 1,
+    "deaths": 2116
+  },
+  {
+    "year": 1990,
+    "month": 11,
+    "type": 2,
+    "deaths": 223
+  },
+  {
+    "year": 1990,
+    "month": 11,
+    "type": 3,
+    "deaths": 160
+  },
+  {
+    "year": 1990,
+    "month": 12,
+    "type": 1,
+    "deaths": 4286
+  },
+  {
+    "year": 1990,
+    "month": 12,
+    "type": 2,
+    "deaths": 391
+  },
+  {
+    "year": 1990,
+    "month": 12,
+    "type": 3,
+    "deaths": 137
+  },
+  {
+    "year": 1991,
+    "month": 1,
+    "type": 1,
+    "deaths": 30073
+  },
+  {
+    "year": 1991,
+    "month": 1,
+    "type": 2,
+    "deaths": 1234
+  },
+  {
+    "year": 1991,
+    "month": 1,
+    "type": 3,
+    "deaths": 2209
+  },
+  {
+    "year": 1991,
+    "month": 2,
+    "type": 1,
+    "deaths": 3674
+  },
+  {
+    "year": 1991,
+    "month": 2,
+    "type": 2,
+    "deaths": 93
+  },
+  {
+    "year": 1991,
+    "month": 2,
+    "type": 3,
+    "deaths": 220
+  },
+  {
+    "year": 1991,
+    "month": 3,
+    "type": 1,
+    "deaths": 11067
+  },
+  {
+    "year": 1991,
+    "month": 3,
+    "type": 2,
+    "deaths": 177
+  },
+  {
+    "year": 1991,
+    "month": 3,
+    "type": 3,
+    "deaths": 2247
+  },
+  {
+    "year": 1991,
+    "month": 4,
+    "type": 1,
+    "deaths": 3286
+  },
+  {
+    "year": 1991,
+    "month": 4,
+    "type": 2,
+    "deaths": 271
+  },
+  {
+    "year": 1991,
+    "month": 4,
+    "type": 3,
+    "deaths": 530
+  },
+  {
+    "year": 1991,
+    "month": 5,
+    "type": 1,
+    "deaths": 5409
+  },
+  {
+    "year": 1991,
+    "month": 5,
+    "type": 2,
+    "deaths": 180
+  },
+  {
+    "year": 1991,
+    "month": 5,
+    "type": 3,
+    "deaths": 317
+  },
+  {
+    "year": 1991,
+    "month": 6,
+    "type": 1,
+    "deaths": 1613
+  },
+  {
+    "year": 1991,
+    "month": 6,
+    "type": 2,
+    "deaths": 137
+  },
+  {
+    "year": 1991,
+    "month": 6,
+    "type": 3,
+    "deaths": 259
+  },
+  {
+    "year": 1991,
+    "month": 7,
+    "type": 1,
+    "deaths": 3095
+  },
+  {
+    "year": 1991,
+    "month": 7,
+    "type": 2,
+    "deaths": 474
+  },
+  {
+    "year": 1991,
+    "month": 7,
+    "type": 3,
+    "deaths": 326
+  },
+  {
+    "year": 1991,
+    "month": 8,
+    "type": 1,
+    "deaths": 2750
+  },
+  {
+    "year": 1991,
+    "month": 8,
+    "type": 2,
+    "deaths": 142
+  },
+  {
+    "year": 1991,
+    "month": 8,
+    "type": 3,
+    "deaths": 132
+  },
+  {
+    "year": 1991,
+    "month": 9,
+    "type": 1,
+    "deaths": 2326
+  },
+  {
+    "year": 1991,
+    "month": 9,
+    "type": 2,
+    "deaths": 119
+  },
+  {
+    "year": 1991,
+    "month": 9,
+    "type": 3,
+    "deaths": 470
+  },
+  {
+    "year": 1991,
+    "month": 10,
+    "type": 1,
+    "deaths": 1482
+  },
+  {
+    "year": 1991,
+    "month": 10,
+    "type": 2,
+    "deaths": 674
+  },
+  {
+    "year": 1991,
+    "month": 10,
+    "type": 3,
+    "deaths": 378
+  },
+  {
+    "year": 1991,
+    "month": 11,
+    "type": 1,
+    "deaths": 3698
+  },
+  {
+    "year": 1991,
+    "month": 11,
+    "type": 2,
+    "deaths": 93
+  },
+  {
+    "year": 1991,
+    "month": 11,
+    "type": 3,
+    "deaths": 2496
+  },
+  {
+    "year": 1991,
+    "month": 12,
+    "type": 1,
+    "deaths": 1935
+  },
+  {
+    "year": 1991,
+    "month": 12,
+    "type": 2,
+    "deaths": 405
+  },
+  {
+    "year": 1991,
+    "month": 12,
+    "type": 3,
+    "deaths": 351
+  },
+  {
+    "year": 1992,
+    "month": 1,
+    "type": 1,
+    "deaths": 8093
+  },
+  {
+    "year": 1992,
+    "month": 1,
+    "type": 2,
+    "deaths": 752
+  },
+  {
+    "year": 1992,
+    "month": 1,
+    "type": 3,
+    "deaths": 1220
+  },
+  {
+    "year": 1992,
+    "month": 2,
+    "type": 1,
+    "deaths": 996
+  },
+  {
+    "year": 1992,
+    "month": 2,
+    "type": 2,
+    "deaths": 293
+  },
+  {
+    "year": 1992,
+    "month": 2,
+    "type": 3,
+    "deaths": 1284
+  },
+  {
+    "year": 1992,
+    "month": 3,
+    "type": 1,
+    "deaths": 1673
+  },
+  {
+    "year": 1992,
+    "month": 3,
+    "type": 2,
+    "deaths": 337
+  },
+  {
+    "year": 1992,
+    "month": 3,
+    "type": 3,
+    "deaths": 766
+  },
+  {
+    "year": 1992,
+    "month": 4,
+    "type": 1,
+    "deaths": 1900
+  },
+  {
+    "year": 1992,
+    "month": 4,
+    "type": 2,
+    "deaths": 1784
+  },
+  {
+    "year": 1992,
+    "month": 4,
+    "type": 3,
+    "deaths": 621
+  },
+  {
+    "year": 1992,
+    "month": 5,
+    "type": 1,
+    "deaths": 5641
+  },
+  {
+    "year": 1992,
+    "month": 5,
+    "type": 2,
+    "deaths": 917
+  },
+  {
+    "year": 1992,
+    "month": 5,
+    "type": 3,
+    "deaths": 4473
+  },
+  {
+    "year": 1992,
+    "month": 6,
+    "type": 1,
+    "deaths": 7095
+  },
+  {
+    "year": 1992,
+    "month": 6,
+    "type": 2,
+    "deaths": 1416
+  },
+  {
+    "year": 1992,
+    "month": 6,
+    "type": 3,
+    "deaths": 457
+  },
+  {
+    "year": 1992,
+    "month": 7,
+    "type": 1,
+    "deaths": 5555
+  },
+  {
+    "year": 1992,
+    "month": 7,
+    "type": 2,
+    "deaths": 2120
+  },
+  {
+    "year": 1992,
+    "month": 7,
+    "type": 3,
+    "deaths": 793
+  },
+  {
+    "year": 1992,
+    "month": 8,
+    "type": 1,
+    "deaths": 6692
+  },
+  {
+    "year": 1992,
+    "month": 8,
+    "type": 2,
+    "deaths": 412
+  },
+  {
+    "year": 1992,
+    "month": 8,
+    "type": 3,
+    "deaths": 596
+  },
+  {
+    "year": 1992,
+    "month": 9,
+    "type": 1,
+    "deaths": 3743
+  },
+  {
+    "year": 1992,
+    "month": 9,
+    "type": 2,
+    "deaths": 160
+  },
+  {
+    "year": 1992,
+    "month": 9,
+    "type": 3,
+    "deaths": 530
+  },
+  {
+    "year": 1992,
+    "month": 10,
+    "type": 1,
+    "deaths": 5163
+  },
+  {
+    "year": 1992,
+    "month": 10,
+    "type": 2,
+    "deaths": 677
+  },
+  {
+    "year": 1992,
+    "month": 10,
+    "type": 3,
+    "deaths": 409
+  },
+  {
+    "year": 1992,
+    "month": 11,
+    "type": 1,
+    "deaths": 2173
+  },
+  {
+    "year": 1992,
+    "month": 11,
+    "type": 2,
+    "deaths": 1099
+  },
+  {
+    "year": 1992,
+    "month": 11,
+    "type": 3,
+    "deaths": 180
+  },
+  {
+    "year": 1992,
+    "month": 12,
+    "type": 1,
+    "deaths": 4836
+  },
+  {
+    "year": 1992,
+    "month": 12,
+    "type": 2,
+    "deaths": 586
+  },
+  {
+    "year": 1992,
+    "month": 12,
+    "type": 3,
+    "deaths": 581
+  },
+  {
+    "year": 1993,
+    "month": 1,
+    "type": 1,
+    "deaths": 10762
+  },
+  {
+    "year": 1993,
+    "month": 1,
+    "type": 2,
+    "deaths": 824
+  },
+  {
+    "year": 1993,
+    "month": 1,
+    "type": 3,
+    "deaths": 2904
+  },
+  {
+    "year": 1993,
+    "month": 2,
+    "type": 1,
+    "deaths": 2924
+  },
+  {
+    "year": 1993,
+    "month": 2,
+    "type": 2,
+    "deaths": 461
+  },
+  {
+    "year": 1993,
+    "month": 2,
+    "type": 3,
+    "deaths": 494
+  },
+  {
+    "year": 1993,
+    "month": 3,
+    "type": 1,
+    "deaths": 1269
+  },
+  {
+    "year": 1993,
+    "month": 3,
+    "type": 2,
+    "deaths": 4208
+  },
+  {
+    "year": 1993,
+    "month": 3,
+    "type": 3,
+    "deaths": 601
+  },
+  {
+    "year": 1993,
+    "month": 4,
+    "type": 1,
+    "deaths": 2254
+  },
+  {
+    "year": 1993,
+    "month": 4,
+    "type": 2,
+    "deaths": 1356
+  },
+  {
+    "year": 1993,
+    "month": 4,
+    "type": 3,
+    "deaths": 607
+  },
+  {
+    "year": 1993,
+    "month": 5,
+    "type": 1,
+    "deaths": 2947
+  },
+  {
+    "year": 1993,
+    "month": 5,
+    "type": 2,
+    "deaths": 344
+  },
+  {
+    "year": 1993,
+    "month": 5,
+    "type": 3,
+    "deaths": 334
+  },
+  {
+    "year": 1993,
+    "month": 6,
+    "type": 1,
+    "deaths": 3794
+  },
+  {
+    "year": 1993,
+    "month": 6,
+    "type": 2,
+    "deaths": 65
+  },
+  {
+    "year": 1993,
+    "month": 6,
+    "type": 3,
+    "deaths": 964
+  },
+  {
+    "year": 1993,
+    "month": 7,
+    "type": 1,
+    "deaths": 7319
+  },
+  {
+    "year": 1993,
+    "month": 7,
+    "type": 2,
+    "deaths": 589
+  },
+  {
+    "year": 1993,
+    "month": 7,
+    "type": 3,
+    "deaths": 544
+  },
+  {
+    "year": 1993,
+    "month": 8,
+    "type": 1,
+    "deaths": 3484
+  },
+  {
+    "year": 1993,
+    "month": 8,
+    "type": 2,
+    "deaths": 161
+  },
+  {
+    "year": 1993,
+    "month": 8,
+    "type": 3,
+    "deaths": 359
+  },
+  {
+    "year": 1993,
+    "month": 9,
+    "type": 1,
+    "deaths": 3540
+  },
+  {
+    "year": 1993,
+    "month": 9,
+    "type": 2,
+    "deaths": 1256
+  },
+  {
+    "year": 1993,
+    "month": 9,
+    "type": 3,
+    "deaths": 456
+  },
+  {
+    "year": 1993,
+    "month": 10,
+    "type": 1,
+    "deaths": 1856
+  },
+  {
+    "year": 1993,
+    "month": 10,
+    "type": 2,
+    "deaths": 5188
+  },
+  {
+    "year": 1993,
+    "month": 10,
+    "type": 3,
+    "deaths": 6168
+  },
+  {
+    "year": 1993,
+    "month": 11,
+    "type": 1,
+    "deaths": 2868
+  },
+  {
+    "year": 1993,
+    "month": 11,
+    "type": 2,
+    "deaths": 85
+  },
+  {
+    "year": 1993,
+    "month": 11,
+    "type": 3,
+    "deaths": 509
+  },
+  {
+    "year": 1993,
+    "month": 12,
+    "type": 1,
+    "deaths": 2089
+  },
+  {
+    "year": 1993,
+    "month": 12,
+    "type": 2,
+    "deaths": 288
+  },
+  {
+    "year": 1993,
+    "month": 12,
+    "type": 3,
+    "deaths": 268
+  },
+  {
+    "year": 1994,
+    "month": 1,
+    "type": 1,
+    "deaths": 10659
+  },
+  {
+    "year": 1994,
+    "month": 1,
+    "type": 2,
+    "deaths": 550
+  },
+  {
+    "year": 1994,
+    "month": 1,
+    "type": 3,
+    "deaths": 3893
+  },
+  {
+    "year": 1994,
+    "month": 2,
+    "type": 1,
+    "deaths": 2577
+  },
+  {
+    "year": 1994,
+    "month": 2,
+    "type": 2,
+    "deaths": 2125
+  },
+  {
+    "year": 1994,
+    "month": 2,
+    "type": 3,
+    "deaths": 367
+  },
+  {
+    "year": 1994,
+    "month": 3,
+    "type": 1,
+    "deaths": 2168
+  },
+  {
+    "year": 1994,
+    "month": 3,
+    "type": 2,
+    "deaths": 599
+  },
+  {
+    "year": 1994,
+    "month": 3,
+    "type": 3,
+    "deaths": 538
+  },
+  {
+    "year": 1994,
+    "month": 4,
+    "type": 1,
+    "deaths": 3750
+  },
+  {
+    "year": 1994,
+    "month": 4,
+    "type": 2,
+    "deaths": 183
+  },
+  {
+    "year": 1994,
+    "month": 4,
+    "type": 3,
+    "deaths": 740475
+  },
+  {
+    "year": 1994,
+    "month": 5,
+    "type": 1,
+    "deaths": 4070
+  },
+  {
+    "year": 1994,
+    "month": 5,
+    "type": 2,
+    "deaths": 141
+  },
+  {
+    "year": 1994,
+    "month": 5,
+    "type": 3,
+    "deaths": 16174
+  },
+  {
+    "year": 1994,
+    "month": 6,
+    "type": 1,
+    "deaths": 3453
+  },
+  {
+    "year": 1994,
+    "month": 6,
+    "type": 2,
+    "deaths": 266
+  },
+  {
+    "year": 1994,
+    "month": 6,
+    "type": 3,
+    "deaths": 3369
+  },
+  {
+    "year": 1994,
+    "month": 7,
+    "type": 1,
+    "deaths": 1980
+  },
+  {
+    "year": 1994,
+    "month": 7,
+    "type": 2,
+    "deaths": 68
+  },
+  {
+    "year": 1994,
+    "month": 7,
+    "type": 3,
+    "deaths": 7482
+  },
+  {
+    "year": 1994,
+    "month": 8,
+    "type": 1,
+    "deaths": 2102
+  },
+  {
+    "year": 1994,
+    "month": 8,
+    "type": 2,
+    "deaths": 133
+  },
+  {
+    "year": 1994,
+    "month": 8,
+    "type": 3,
+    "deaths": 5626
+  },
+  {
+    "year": 1994,
+    "month": 9,
+    "type": 1,
+    "deaths": 1948
+  },
+  {
+    "year": 1994,
+    "month": 9,
+    "type": 2,
+    "deaths": 65
+  },
+  {
+    "year": 1994,
+    "month": 9,
+    "type": 3,
+    "deaths": 637
+  },
+  {
+    "year": 1994,
+    "month": 10,
+    "type": 1,
+    "deaths": 2794
+  },
+  {
+    "year": 1994,
+    "month": 10,
+    "type": 2,
+    "deaths": 326
+  },
+  {
+    "year": 1994,
+    "month": 10,
+    "type": 3,
+    "deaths": 542
+  },
+  {
+    "year": 1994,
+    "month": 11,
+    "type": 1,
+    "deaths": 1905
+  },
+  {
+    "year": 1994,
+    "month": 11,
+    "type": 2,
+    "deaths": 451
+  },
+  {
+    "year": 1994,
+    "month": 11,
+    "type": 3,
+    "deaths": 605
+  },
+  {
+    "year": 1994,
+    "month": 12,
+    "type": 1,
+    "deaths": 1327
+  },
+  {
+    "year": 1994,
+    "month": 12,
+    "type": 2,
+    "deaths": 509
+  },
+  {
+    "year": 1994,
+    "month": 12,
+    "type": 3,
+    "deaths": 261
+  },
+  {
+    "year": 1995,
+    "month": 1,
+    "type": 1,
+    "deaths": 2396
+  },
+  {
+    "year": 1995,
+    "month": 1,
+    "type": 2,
+    "deaths": 2164
+  },
+  {
+    "year": 1995,
+    "month": 1,
+    "type": 3,
+    "deaths": 1816
+  },
+  {
+    "year": 1995,
+    "month": 2,
+    "type": 1,
+    "deaths": 1868
+  },
+  {
+    "year": 1995,
+    "month": 2,
+    "type": 2,
+    "deaths": 189
+  },
+  {
+    "year": 1995,
+    "month": 2,
+    "type": 3,
+    "deaths": 621
+  },
+  {
+    "year": 1995,
+    "month": 3,
+    "type": 1,
+    "deaths": 3263
+  },
+  {
+    "year": 1995,
+    "month": 3,
+    "type": 2,
+    "deaths": 421
+  },
+  {
+    "year": 1995,
+    "month": 3,
+    "type": 3,
+    "deaths": 1613
+  },
+  {
+    "year": 1995,
+    "month": 4,
+    "type": 1,
+    "deaths": 3457
+  },
+  {
+    "year": 1995,
+    "month": 4,
+    "type": 2,
+    "deaths": 110
+  },
+  {
+    "year": 1995,
+    "month": 4,
+    "type": 3,
+    "deaths": 4898
+  },
+  {
+    "year": 1995,
+    "month": 5,
+    "type": 1,
+    "deaths": 3186
+  },
+  {
+    "year": 1995,
+    "month": 5,
+    "type": 2,
+    "deaths": 51
+  },
+  {
+    "year": 1995,
+    "month": 5,
+    "type": 3,
+    "deaths": 627
+  },
+  {
+    "year": 1995,
+    "month": 6,
+    "type": 1,
+    "deaths": 2689
+  },
+  {
+    "year": 1995,
+    "month": 6,
+    "type": 2,
+    "deaths": 245
+  },
+  {
+    "year": 1995,
+    "month": 6,
+    "type": 3,
+    "deaths": 354
+  },
+  {
+    "year": 1995,
+    "month": 7,
+    "type": 1,
+    "deaths": 8059
+  },
+  {
+    "year": 1995,
+    "month": 7,
+    "type": 2,
+    "deaths": 424
+  },
+  {
+    "year": 1995,
+    "month": 7,
+    "type": 3,
+    "deaths": 8523
+  },
+  {
+    "year": 1995,
+    "month": 8,
+    "type": 1,
+    "deaths": 2334
+  },
+  {
+    "year": 1995,
+    "month": 8,
+    "type": 2,
+    "deaths": 132
+  },
+  {
+    "year": 1995,
+    "month": 8,
+    "type": 3,
+    "deaths": 449
+  },
+  {
+    "year": 1995,
+    "month": 9,
+    "type": 1,
+    "deaths": 1959
+  },
+  {
+    "year": 1995,
+    "month": 9,
+    "type": 2,
+    "deaths": 262
+  },
+  {
+    "year": 1995,
+    "month": 9,
+    "type": 3,
+    "deaths": 433
+  },
+  {
+    "year": 1995,
+    "month": 10,
+    "type": 1,
+    "deaths": 3335
+  },
+  {
+    "year": 1995,
+    "month": 10,
+    "type": 2,
+    "deaths": 219
+  },
+  {
+    "year": 1995,
+    "month": 10,
+    "type": 3,
+    "deaths": 703
+  },
+  {
+    "year": 1995,
+    "month": 11,
+    "type": 1,
+    "deaths": 2040
+  },
+  {
+    "year": 1995,
+    "month": 11,
+    "type": 2,
+    "deaths": 98
+  },
+  {
+    "year": 1995,
+    "month": 11,
+    "type": 3,
+    "deaths": 1085
+  },
+  {
+    "year": 1995,
+    "month": 12,
+    "type": 1,
+    "deaths": 2316
+  },
+  {
+    "year": 1995,
+    "month": 12,
+    "type": 2,
+    "deaths": 222
+  },
+  {
+    "year": 1995,
+    "month": 12,
+    "type": 3,
+    "deaths": 175
+  },
+  {
+    "year": 1996,
+    "month": 1,
+    "type": 1,
+    "deaths": 6703
+  },
+  {
+    "year": 1996,
+    "month": 1,
+    "type": 2,
+    "deaths": 414
+  },
+  {
+    "year": 1996,
+    "month": 1,
+    "type": 3,
+    "deaths": 255
+  },
+  {
+    "year": 1996,
+    "month": 2,
+    "type": 1,
+    "deaths": 1049
+  },
+  {
+    "year": 1996,
+    "month": 2,
+    "type": 2,
+    "deaths": 341
+  },
+  {
+    "year": 1996,
+    "month": 2,
+    "type": 3,
+    "deaths": 370
+  },
+  {
+    "year": 1996,
+    "month": 3,
+    "type": 1,
+    "deaths": 2343
+  },
+  {
+    "year": 1996,
+    "month": 3,
+    "type": 2,
+    "deaths": 113
+  },
+  {
+    "year": 1996,
+    "month": 3,
+    "type": 3,
+    "deaths": 578
+  },
+  {
+    "year": 1996,
+    "month": 4,
+    "type": 1,
+    "deaths": 2103
+  },
+  {
+    "year": 1996,
+    "month": 4,
+    "type": 2,
+    "deaths": 2223
+  },
+  {
+    "year": 1996,
+    "month": 4,
+    "type": 3,
+    "deaths": 709
+  },
+  {
+    "year": 1996,
+    "month": 5,
+    "type": 1,
+    "deaths": 1594
+  },
+  {
+    "year": 1996,
+    "month": 5,
+    "type": 2,
+    "deaths": 295
+  },
+  {
+    "year": 1996,
+    "month": 5,
+    "type": 3,
+    "deaths": 2163
+  },
+  {
+    "year": 1996,
+    "month": 6,
+    "type": 1,
+    "deaths": 1307
+  },
+  {
+    "year": 1996,
+    "month": 6,
+    "type": 2,
+    "deaths": 199
+  },
+  {
+    "year": 1996,
+    "month": 6,
+    "type": 3,
+    "deaths": 907
+  },
+  {
+    "year": 1996,
+    "month": 7,
+    "type": 1,
+    "deaths": 2851
+  },
+  {
+    "year": 1996,
+    "month": 7,
+    "type": 2,
+    "deaths": 168
+  },
+  {
+    "year": 1996,
+    "month": 7,
+    "type": 3,
+    "deaths": 12480
+  },
+  {
+    "year": 1996,
+    "month": 8,
+    "type": 1,
+    "deaths": 2853
+  },
+  {
+    "year": 1996,
+    "month": 8,
+    "type": 2,
+    "deaths": 73
+  },
+  {
+    "year": 1996,
+    "month": 8,
+    "type": 3,
+    "deaths": 842
+  },
+  {
+    "year": 1996,
+    "month": 9,
+    "type": 1,
+    "deaths": 2370
+  },
+  {
+    "year": 1996,
+    "month": 9,
+    "type": 2,
+    "deaths": 95
+  },
+  {
+    "year": 1996,
+    "month": 9,
+    "type": 3,
+    "deaths": 1289
+  },
+  {
+    "year": 1996,
+    "month": 10,
+    "type": 1,
+    "deaths": 1739
+  },
+  {
+    "year": 1996,
+    "month": 10,
+    "type": 2,
+    "deaths": 148
+  },
+  {
+    "year": 1996,
+    "month": 10,
+    "type": 3,
+    "deaths": 15647
+  },
+  {
+    "year": 1996,
+    "month": 11,
+    "type": 1,
+    "deaths": 2522
+  },
+  {
+    "year": 1996,
+    "month": 11,
+    "type": 2,
+    "deaths": 202
+  },
+  {
+    "year": 1996,
+    "month": 11,
+    "type": 3,
+    "deaths": 9313
+  },
+  {
+    "year": 1996,
+    "month": 12,
+    "type": 1,
+    "deaths": 1522
+  },
+  {
+    "year": 1996,
+    "month": 12,
+    "type": 2,
+    "deaths": 86
+  },
+  {
+    "year": 1996,
+    "month": 12,
+    "type": 3,
+    "deaths": 10018
+  },
+  {
+    "year": 1997,
+    "month": 1,
+    "type": 1,
+    "deaths": 4698
+  },
+  {
+    "year": 1997,
+    "month": 1,
+    "type": 2,
+    "deaths": 499
+  },
+  {
+    "year": 1997,
+    "month": 1,
+    "type": 3,
+    "deaths": 2683
+  },
+  {
+    "year": 1997,
+    "month": 2,
+    "type": 1,
+    "deaths": 1912
+  },
+  {
+    "year": 1997,
+    "month": 2,
+    "type": 2,
+    "deaths": 279
+  },
+  {
+    "year": 1997,
+    "month": 2,
+    "type": 3,
+    "deaths": 1448
+  },
+  {
+    "year": 1997,
+    "month": 3,
+    "type": 1,
+    "deaths": 2600
+  },
+  {
+    "year": 1997,
+    "month": 3,
+    "type": 2,
+    "deaths": 879
+  },
+  {
+    "year": 1997,
+    "month": 3,
+    "type": 3,
+    "deaths": 1506
+  },
+  {
+    "year": 1997,
+    "month": 4,
+    "type": 1,
+    "deaths": 1255
+  },
+  {
+    "year": 1997,
+    "month": 4,
+    "type": 2,
+    "deaths": 184
+  },
+  {
+    "year": 1997,
+    "month": 4,
+    "type": 3,
+    "deaths": 2269
+  },
+  {
+    "year": 1997,
+    "month": 5,
+    "type": 1,
+    "deaths": 6169
+  },
+  {
+    "year": 1997,
+    "month": 5,
+    "type": 2,
+    "deaths": 375
+  },
+  {
+    "year": 1997,
+    "month": 5,
+    "type": 3,
+    "deaths": 3742
+  },
+  {
+    "year": 1997,
+    "month": 6,
+    "type": 1,
+    "deaths": 11826
+  },
+  {
+    "year": 1997,
+    "month": 6,
+    "type": 2,
+    "deaths": 227
+  },
+  {
+    "year": 1997,
+    "month": 6,
+    "type": 3,
+    "deaths": 4056
+  },
+  {
+    "year": 1997,
+    "month": 7,
+    "type": 1,
+    "deaths": 1382
+  },
+  {
+    "year": 1997,
+    "month": 7,
+    "type": 2,
+    "deaths": 532
+  },
+  {
+    "year": 1997,
+    "month": 7,
+    "type": 3,
+    "deaths": 1131
+  },
+  {
+    "year": 1997,
+    "month": 8,
+    "type": 1,
+    "deaths": 2596
+  },
+  {
+    "year": 1997,
+    "month": 8,
+    "type": 2,
+    "deaths": 760
+  },
+  {
+    "year": 1997,
+    "month": 8,
+    "type": 3,
+    "deaths": 1308
+  },
+  {
+    "year": 1997,
+    "month": 9,
+    "type": 1,
+    "deaths": 2742
+  },
+  {
+    "year": 1997,
+    "month": 9,
+    "type": 2,
+    "deaths": 62
+  },
+  {
+    "year": 1997,
+    "month": 9,
+    "type": 3,
+    "deaths": 837
+  },
+  {
+    "year": 1997,
+    "month": 10,
+    "type": 1,
+    "deaths": 2197
+  },
+  {
+    "year": 1997,
+    "month": 10,
+    "type": 2,
+    "deaths": 59
+  },
+  {
+    "year": 1997,
+    "month": 10,
+    "type": 3,
+    "deaths": 511
+  },
+  {
+    "year": 1997,
+    "month": 11,
+    "type": 1,
+    "deaths": 1401
+  },
+  {
+    "year": 1997,
+    "month": 11,
+    "type": 2,
+    "deaths": 466
+  },
+  {
+    "year": 1997,
+    "month": 11,
+    "type": 3,
+    "deaths": 1390
+  },
+  {
+    "year": 1997,
+    "month": 12,
+    "type": 1,
+    "deaths": 1512
+  },
+  {
+    "year": 1997,
+    "month": 12,
+    "type": 2,
+    "deaths": 127
+  },
+  {
+    "year": 1997,
+    "month": 12,
+    "type": 3,
+    "deaths": 647
+  },
+  {
+    "year": 1998,
+    "month": 1,
+    "type": 1,
+    "deaths": 3011
+  },
+  {
+    "year": 1998,
+    "month": 1,
+    "type": 2,
+    "deaths": 664
+  },
+  {
+    "year": 1998,
+    "month": 1,
+    "type": 3,
+    "deaths": 1663
+  },
+  {
+    "year": 1998,
+    "month": 2,
+    "type": 1,
+    "deaths": 1703
+  },
+  {
+    "year": 1998,
+    "month": 2,
+    "type": 2,
+    "deaths": 86
+  },
+  {
+    "year": 1998,
+    "month": 2,
+    "type": 3,
+    "deaths": 1079
+  },
+  {
+    "year": 1998,
+    "month": 3,
+    "type": 1,
+    "deaths": 2424
+  },
+  {
+    "year": 1998,
+    "month": 3,
+    "type": 2,
+    "deaths": 237
+  },
+  {
+    "year": 1998,
+    "month": 3,
+    "type": 3,
+    "deaths": 637
+  },
+  {
+    "year": 1998,
+    "month": 4,
+    "type": 1,
+    "deaths": 1392
+  },
+  {
+    "year": 1998,
+    "month": 4,
+    "type": 2,
+    "deaths": 228
+  },
+  {
+    "year": 1998,
+    "month": 4,
+    "type": 3,
+    "deaths": 1787
+  },
+  {
+    "year": 1998,
+    "month": 5,
+    "type": 1,
+    "deaths": 3721
+  },
+  {
+    "year": 1998,
+    "month": 5,
+    "type": 2,
+    "deaths": 238
+  },
+  {
+    "year": 1998,
+    "month": 5,
+    "type": 3,
+    "deaths": 806
+  },
+  {
+    "year": 1998,
+    "month": 6,
+    "type": 1,
+    "deaths": 2540
+  },
+  {
+    "year": 1998,
+    "month": 6,
+    "type": 2,
+    "deaths": 126
+  },
+  {
+    "year": 1998,
+    "month": 6,
+    "type": 3,
+    "deaths": 393
+  },
+  {
+    "year": 1998,
+    "month": 7,
+    "type": 1,
+    "deaths": 2253
+  },
+  {
+    "year": 1998,
+    "month": 7,
+    "type": 2,
+    "deaths": 1002
+  },
+  {
+    "year": 1998,
+    "month": 7,
+    "type": 3,
+    "deaths": 669
+  },
+  {
+    "year": 1998,
+    "month": 8,
+    "type": 1,
+    "deaths": 5347
+  },
+  {
+    "year": 1998,
+    "month": 8,
+    "type": 2,
+    "deaths": 407
+  },
+  {
+    "year": 1998,
+    "month": 8,
+    "type": 3,
+    "deaths": 6975
+  },
+  {
+    "year": 1998,
+    "month": 9,
+    "type": 1,
+    "deaths": 4123
+  },
+  {
+    "year": 1998,
+    "month": 9,
+    "type": 2,
+    "deaths": 190
+  },
+  {
+    "year": 1998,
+    "month": 9,
+    "type": 3,
+    "deaths": 1017
+  },
+  {
+    "year": 1998,
+    "month": 10,
+    "type": 1,
+    "deaths": 2803
+  },
+  {
+    "year": 1998,
+    "month": 10,
+    "type": 2,
+    "deaths": 207
+  },
+  {
+    "year": 1998,
+    "month": 10,
+    "type": 3,
+    "deaths": 571
+  },
+  {
+    "year": 1998,
+    "month": 11,
+    "type": 1,
+    "deaths": 3777
+  },
+  {
+    "year": 1998,
+    "month": 11,
+    "type": 2,
+    "deaths": 80
+  },
+  {
+    "year": 1998,
+    "month": 11,
+    "type": 3,
+    "deaths": 492
+  },
+  {
+    "year": 1998,
+    "month": 12,
+    "type": 1,
+    "deaths": 7181
+  },
+  {
+    "year": 1998,
+    "month": 12,
+    "type": 2,
+    "deaths": 208
+  },
+  {
+    "year": 1998,
+    "month": 12,
+    "type": 3,
+    "deaths": 1456
+  },
+  {
+    "year": 1999,
+    "month": 1,
+    "type": 1,
+    "deaths": 5047
+  },
+  {
+    "year": 1999,
+    "month": 1,
+    "type": 2,
+    "deaths": 743
+  },
+  {
+    "year": 1999,
+    "month": 1,
+    "type": 3,
+    "deaths": 2932
+  },
+  {
+    "year": 1999,
+    "month": 2,
+    "type": 1,
+    "deaths": 16679
+  },
+  {
+    "year": 1999,
+    "month": 2,
+    "type": 2,
+    "deaths": 109
+  },
+  {
+    "year": 1999,
+    "month": 2,
+    "type": 3,
+    "deaths": 668
+  },
+  {
+    "year": 1999,
+    "month": 3,
+    "type": 1,
+    "deaths": 4749
+  },
+  {
+    "year": 1999,
+    "month": 3,
+    "type": 2,
+    "deaths": 543
+  },
+  {
+    "year": 1999,
+    "month": 3,
+    "type": 3,
+    "deaths": 1209
+  },
+  {
+    "year": 1999,
+    "month": 4,
+    "type": 1,
+    "deaths": 2181
+  },
+  {
+    "year": 1999,
+    "month": 4,
+    "type": 2,
+    "deaths": 323
+  },
+  {
+    "year": 1999,
+    "month": 4,
+    "type": 3,
+    "deaths": 1222
+  },
+  {
+    "year": 1999,
+    "month": 5,
+    "type": 1,
+    "deaths": 2862
+  },
+  {
+    "year": 1999,
+    "month": 5,
+    "type": 2,
+    "deaths": 334
+  },
+  {
+    "year": 1999,
+    "month": 5,
+    "type": 3,
+    "deaths": 1283
+  },
+  {
+    "year": 1999,
+    "month": 6,
+    "type": 1,
+    "deaths": 31440
+  },
+  {
+    "year": 1999,
+    "month": 6,
+    "type": 2,
+    "deaths": 389
+  },
+  {
+    "year": 1999,
+    "month": 6,
+    "type": 3,
+    "deaths": 503
+  },
+  {
+    "year": 1999,
+    "month": 7,
+    "type": 1,
+    "deaths": 3576
+  },
+  {
+    "year": 1999,
+    "month": 7,
+    "type": 2,
+    "deaths": 1326
+  },
+  {
+    "year": 1999,
+    "month": 7,
+    "type": 3,
+    "deaths": 597
+  },
+  {
+    "year": 1999,
+    "month": 8,
+    "type": 1,
+    "deaths": 3730
+  },
+  {
+    "year": 1999,
+    "month": 8,
+    "type": 2,
+    "deaths": 162
+  },
+  {
+    "year": 1999,
+    "month": 8,
+    "type": 3,
+    "deaths": 393
+  },
+  {
+    "year": 1999,
+    "month": 9,
+    "type": 1,
+    "deaths": 5876
+  },
+  {
+    "year": 1999,
+    "month": 9,
+    "type": 2,
+    "deaths": 1012
+  },
+  {
+    "year": 1999,
+    "month": 9,
+    "type": 3,
+    "deaths": 772
+  },
+  {
+    "year": 1999,
+    "month": 10,
+    "type": 1,
+    "deaths": 1814
+  },
+  {
+    "year": 1999,
+    "month": 10,
+    "type": 2,
+    "deaths": 151
+  },
+  {
+    "year": 1999,
+    "month": 10,
+    "type": 3,
+    "deaths": 772
+  },
+  {
+    "year": 1999,
+    "month": 11,
+    "type": 1,
+    "deaths": 1661
+  },
+  {
+    "year": 1999,
+    "month": 11,
+    "type": 2,
+    "deaths": 262
+  },
+  {
+    "year": 1999,
+    "month": 11,
+    "type": 3,
+    "deaths": 2704
+  },
+  {
+    "year": 1999,
+    "month": 12,
+    "type": 1,
+    "deaths": 1500
+  },
+  {
+    "year": 1999,
+    "month": 12,
+    "type": 2,
+    "deaths": 836
+  },
+  {
+    "year": 1999,
+    "month": 12,
+    "type": 3,
+    "deaths": 615
+  },
+  {
+    "year": 2000,
+    "month": 1,
+    "type": 1,
+    "deaths": 51267
+  },
+  {
+    "year": 2000,
+    "month": 1,
+    "type": 2,
+    "deaths": 1060
+  },
+  {
+    "year": 2000,
+    "month": 1,
+    "type": 3,
+    "deaths": 970
+  },
+  {
+    "year": 2000,
+    "month": 2,
+    "type": 1,
+    "deaths": 1609
+  },
+  {
+    "year": 2000,
+    "month": 2,
+    "type": 2,
+    "deaths": 2285
+  },
+  {
+    "year": 2000,
+    "month": 2,
+    "type": 3,
+    "deaths": 1775
+  },
+  {
+    "year": 2000,
+    "month": 3,
+    "type": 1,
+    "deaths": 2619
+  },
+  {
+    "year": 2000,
+    "month": 3,
+    "type": 2,
+    "deaths": 142
+  },
+  {
+    "year": 2000,
+    "month": 3,
+    "type": 3,
+    "deaths": 810
+  },
+  {
+    "year": 2000,
+    "month": 4,
+    "type": 1,
+    "deaths": 2624
+  },
+  {
+    "year": 2000,
+    "month": 4,
+    "type": 2,
+    "deaths": 288
+  },
+  {
+    "year": 2000,
+    "month": 4,
+    "type": 3,
+    "deaths": 409
+  },
+  {
+    "year": 2000,
+    "month": 5,
+    "type": 1,
+    "deaths": 3238
+  },
+  {
+    "year": 2000,
+    "month": 5,
+    "type": 2,
+    "deaths": 424
+  },
+  {
+    "year": 2000,
+    "month": 5,
+    "type": 3,
+    "deaths": 789
+  },
+  {
+    "year": 2000,
+    "month": 6,
+    "type": 1,
+    "deaths": 2975
+  },
+  {
+    "year": 2000,
+    "month": 6,
+    "type": 2,
+    "deaths": 383
+  },
+  {
+    "year": 2000,
+    "month": 6,
+    "type": 3,
+    "deaths": 483
+  },
+  {
+    "year": 2000,
+    "month": 7,
+    "type": 1,
+    "deaths": 3078
+  },
+  {
+    "year": 2000,
+    "month": 7,
+    "type": 2,
+    "deaths": 826
+  },
+  {
+    "year": 2000,
+    "month": 7,
+    "type": 3,
+    "deaths": 594
+  },
+  {
+    "year": 2000,
+    "month": 8,
+    "type": 1,
+    "deaths": 2747
+  },
+  {
+    "year": 2000,
+    "month": 8,
+    "type": 2,
+    "deaths": 126
+  },
+  {
+    "year": 2000,
+    "month": 8,
+    "type": 3,
+    "deaths": 707
+  },
+  {
+    "year": 2000,
+    "month": 9,
+    "type": 1,
+    "deaths": 3834
+  },
+  {
+    "year": 2000,
+    "month": 9,
+    "type": 2,
+    "deaths": 657
+  },
+  {
+    "year": 2000,
+    "month": 9,
+    "type": 3,
+    "deaths": 449
+  },
+  {
+    "year": 2000,
+    "month": 10,
+    "type": 1,
+    "deaths": 1378
+  },
+  {
+    "year": 2000,
+    "month": 10,
+    "type": 2,
+    "deaths": 158
+  },
+  {
+    "year": 2000,
+    "month": 10,
+    "type": 3,
+    "deaths": 727
+  },
+  {
+    "year": 2000,
+    "month": 11,
+    "type": 1,
+    "deaths": 1833
+  },
+  {
+    "year": 2000,
+    "month": 11,
+    "type": 2,
+    "deaths": 403
+  },
+  {
+    "year": 2000,
+    "month": 11,
+    "type": 3,
+    "deaths": 464
+  },
+  {
+    "year": 2000,
+    "month": 12,
+    "type": 1,
+    "deaths": 1580
+  },
+  {
+    "year": 2000,
+    "month": 12,
+    "type": 2,
+    "deaths": 88
+  },
+  {
+    "year": 2000,
+    "month": 12,
+    "type": 3,
+    "deaths": 433
+  },
+  {
+    "year": 2001,
+    "month": 1,
+    "type": 1,
+    "deaths": 3298
+  },
+  {
+    "year": 2001,
+    "month": 1,
+    "type": 2,
+    "deaths": 529
+  },
+  {
+    "year": 2001,
+    "month": 1,
+    "type": 3,
+    "deaths": 960
+  },
+  {
+    "year": 2001,
+    "month": 2,
+    "type": 1,
+    "deaths": 1176
+  },
+  {
+    "year": 2001,
+    "month": 2,
+    "type": 2,
+    "deaths": 625
+  },
+  {
+    "year": 2001,
+    "month": 2,
+    "type": 3,
+    "deaths": 462
+  },
+  {
+    "year": 2001,
+    "month": 3,
+    "type": 1,
+    "deaths": 1168
+  },
+  {
+    "year": 2001,
+    "month": 3,
+    "type": 2,
+    "deaths": 232
+  },
+  {
+    "year": 2001,
+    "month": 3,
+    "type": 3,
+    "deaths": 335
+  },
+  {
+    "year": 2001,
+    "month": 4,
+    "type": 1,
+    "deaths": 1422
+  },
+  {
+    "year": 2001,
+    "month": 4,
+    "type": 2,
+    "deaths": 256
+  },
+  {
+    "year": 2001,
+    "month": 4,
+    "type": 3,
+    "deaths": 404
+  },
+  {
+    "year": 2001,
+    "month": 5,
+    "type": 1,
+    "deaths": 3741
+  },
+  {
+    "year": 2001,
+    "month": 5,
+    "type": 2,
+    "deaths": 256
+  },
+  {
+    "year": 2001,
+    "month": 5,
+    "type": 3,
+    "deaths": 692
+  },
+  {
+    "year": 2001,
+    "month": 6,
+    "type": 1,
+    "deaths": 1902
+  },
+  {
+    "year": 2001,
+    "month": 6,
+    "type": 2,
+    "deaths": 343
+  },
+  {
+    "year": 2001,
+    "month": 6,
+    "type": 3,
+    "deaths": 432
+  },
+  {
+    "year": 2001,
+    "month": 7,
+    "type": 1,
+    "deaths": 947
+  },
+  {
+    "year": 2001,
+    "month": 7,
+    "type": 2,
+    "deaths": 256
+  },
+  {
+    "year": 2001,
+    "month": 7,
+    "type": 3,
+    "deaths": 360
+  },
+  {
+    "year": 2001,
+    "month": 8,
+    "type": 1,
+    "deaths": 1028
+  },
+  {
+    "year": 2001,
+    "month": 8,
+    "type": 2,
+    "deaths": 96
+  },
+  {
+    "year": 2001,
+    "month": 8,
+    "type": 3,
+    "deaths": 606
+  },
+  {
+    "year": 2001,
+    "month": 9,
+    "type": 1,
+    "deaths": 2193
+  },
+  {
+    "year": 2001,
+    "month": 9,
+    "type": 2,
+    "deaths": 1159
+  },
+  {
+    "year": 2001,
+    "month": 9,
+    "type": 3,
+    "deaths": 3178
+  },
+  {
+    "year": 2001,
+    "month": 10,
+    "type": 1,
+    "deaths": 2680
+  },
+  {
+    "year": 2001,
+    "month": 10,
+    "type": 2,
+    "deaths": 837
+  },
+  {
+    "year": 2001,
+    "month": 10,
+    "type": 3,
+    "deaths": 700
+  },
+  {
+    "year": 2001,
+    "month": 11,
+    "type": 1,
+    "deaths": 2420
+  },
+  {
+    "year": 2001,
+    "month": 11,
+    "type": 2,
+    "deaths": 142
+  },
+  {
+    "year": 2001,
+    "month": 11,
+    "type": 3,
+    "deaths": 672
+  },
+  {
+    "year": 2001,
+    "month": 12,
+    "type": 1,
+    "deaths": 1739
+  },
+  {
+    "year": 2001,
+    "month": 12,
+    "type": 2,
+    "deaths": 604
+  },
+  {
+    "year": 2001,
+    "month": 12,
+    "type": 3,
+    "deaths": 401
+  },
+  {
+    "year": 2002,
+    "month": 1,
+    "type": 1,
+    "deaths": 1821
+  },
+  {
+    "year": 2002,
+    "month": 1,
+    "type": 2,
+    "deaths": 565
+  },
+  {
+    "year": 2002,
+    "month": 1,
+    "type": 3,
+    "deaths": 2166
+  },
+  {
+    "year": 2002,
+    "month": 2,
+    "type": 1,
+    "deaths": 1204
+  },
+  {
+    "year": 2002,
+    "month": 2,
+    "type": 2,
+    "deaths": 812
+  },
+  {
+    "year": 2002,
+    "month": 2,
+    "type": 3,
+    "deaths": 1419
+  },
+  {
+    "year": 2002,
+    "month": 3,
+    "type": 1,
+    "deaths": 2704
+  },
+  {
+    "year": 2002,
+    "month": 3,
+    "type": 2,
+    "deaths": 534
+  },
+  {
+    "year": 2002,
+    "month": 3,
+    "type": 3,
+    "deaths": 868
+  },
+  {
+    "year": 2002,
+    "month": 4,
+    "type": 1,
+    "deaths": 1844
+  },
+  {
+    "year": 2002,
+    "month": 4,
+    "type": 2,
+    "deaths": 1079
+  },
+  {
+    "year": 2002,
+    "month": 4,
+    "type": 3,
+    "deaths": 939
+  },
+  {
+    "year": 2002,
+    "month": 5,
+    "type": 1,
+    "deaths": 1951
+  },
+  {
+    "year": 2002,
+    "month": 5,
+    "type": 2,
+    "deaths": 691
+  },
+  {
+    "year": 2002,
+    "month": 5,
+    "type": 3,
+    "deaths": 906
+  },
+  {
+    "year": 2002,
+    "month": 6,
+    "type": 1,
+    "deaths": 1521
+  },
+  {
+    "year": 2002,
+    "month": 6,
+    "type": 2,
+    "deaths": 821
+  },
+  {
+    "year": 2002,
+    "month": 6,
+    "type": 3,
+    "deaths": 573
+  },
+  {
+    "year": 2002,
+    "month": 7,
+    "type": 1,
+    "deaths": 1705
+  },
+  {
+    "year": 2002,
+    "month": 7,
+    "type": 2,
+    "deaths": 451
+  },
+  {
+    "year": 2002,
+    "month": 7,
+    "type": 3,
+    "deaths": 759
+  },
+  {
+    "year": 2002,
+    "month": 8,
+    "type": 1,
+    "deaths": 1471
+  },
+  {
+    "year": 2002,
+    "month": 8,
+    "type": 2,
+    "deaths": 576
+  },
+  {
+    "year": 2002,
+    "month": 8,
+    "type": 3,
+    "deaths": 1197
+  },
+  {
+    "year": 2002,
+    "month": 9,
+    "type": 1,
+    "deaths": 2931
+  },
+  {
+    "year": 2002,
+    "month": 9,
+    "type": 2,
+    "deaths": 107
+  },
+  {
+    "year": 2002,
+    "month": 9,
+    "type": 3,
+    "deaths": 2273
+  },
+  {
+    "year": 2002,
+    "month": 10,
+    "type": 1,
+    "deaths": 1873
+  },
+  {
+    "year": 2002,
+    "month": 10,
+    "type": 2,
+    "deaths": 335
+  },
+  {
+    "year": 2002,
+    "month": 10,
+    "type": 3,
+    "deaths": 1869
+  },
+  {
+    "year": 2002,
+    "month": 11,
+    "type": 1,
+    "deaths": 1426
+  },
+  {
+    "year": 2002,
+    "month": 11,
+    "type": 2,
+    "deaths": 395
+  },
+  {
+    "year": 2002,
+    "month": 11,
+    "type": 3,
+    "deaths": 818
+  },
+  {
+    "year": 2002,
+    "month": 12,
+    "type": 1,
+    "deaths": 830
+  },
+  {
+    "year": 2002,
+    "month": 12,
+    "type": 2,
+    "deaths": 269
+  },
+  {
+    "year": 2002,
+    "month": 12,
+    "type": 3,
+    "deaths": 336
+  },
+  {
+    "year": 2003,
+    "month": 1,
+    "type": 1,
+    "deaths": 1001
+  },
+  {
+    "year": 2003,
+    "month": 1,
+    "type": 2,
+    "deaths": 571
+  },
+  {
+    "year": 2003,
+    "month": 1,
+    "type": 3,
+    "deaths": 1529
+  },
+  {
+    "year": 2003,
+    "month": 2,
+    "type": 1,
+    "deaths": 750
+  },
+  {
+    "year": 2003,
+    "month": 2,
+    "type": 2,
+    "deaths": 267
+  },
+  {
+    "year": 2003,
+    "month": 2,
+    "type": 3,
+    "deaths": 1226
+  },
+  {
+    "year": 2003,
+    "month": 3,
+    "type": 1,
+    "deaths": 8265
+  },
+  {
+    "year": 2003,
+    "month": 3,
+    "type": 2,
+    "deaths": 305
+  },
+  {
+    "year": 2003,
+    "month": 3,
+    "type": 3,
+    "deaths": 1048
+  },
+  {
+    "year": 2003,
+    "month": 4,
+    "type": 1,
+    "deaths": 1785
+  },
+  {
+    "year": 2003,
+    "month": 4,
+    "type": 2,
+    "deaths": 286
+  },
+  {
+    "year": 2003,
+    "month": 4,
+    "type": 3,
+    "deaths": 711
+  },
+  {
+    "year": 2003,
+    "month": 5,
+    "type": 1,
+    "deaths": 1325
+  },
+  {
+    "year": 2003,
+    "month": 5,
+    "type": 2,
+    "deaths": 552
+  },
+  {
+    "year": 2003,
+    "month": 5,
+    "type": 3,
+    "deaths": 1837
+  },
+  {
+    "year": 2003,
+    "month": 6,
+    "type": 1,
+    "deaths": 1658
+  },
+  {
+    "year": 2003,
+    "month": 6,
+    "type": 2,
+    "deaths": 273
+  },
+  {
+    "year": 2003,
+    "month": 6,
+    "type": 3,
+    "deaths": 1336
+  },
+  {
+    "year": 2003,
+    "month": 7,
+    "type": 1,
+    "deaths": 1932
+  },
+  {
+    "year": 2003,
+    "month": 7,
+    "type": 2,
+    "deaths": 466
+  },
+  {
+    "year": 2003,
+    "month": 7,
+    "type": 3,
+    "deaths": 1660
+  },
+  {
+    "year": 2003,
+    "month": 8,
+    "type": 1,
+    "deaths": 1291
+  },
+  {
+    "year": 2003,
+    "month": 8,
+    "type": 2,
+    "deaths": 133
+  },
+  {
+    "year": 2003,
+    "month": 8,
+    "type": 3,
+    "deaths": 1403
+  },
+  {
+    "year": 2003,
+    "month": 9,
+    "type": 1,
+    "deaths": 1088
+  },
+  {
+    "year": 2003,
+    "month": 9,
+    "type": 2,
+    "deaths": 59
+  },
+  {
+    "year": 2003,
+    "month": 9,
+    "type": 3,
+    "deaths": 485
+  },
+  {
+    "year": 2003,
+    "month": 10,
+    "type": 1,
+    "deaths": 1400
+  },
+  {
+    "year": 2003,
+    "month": 10,
+    "type": 2,
+    "deaths": 275
+  },
+  {
+    "year": 2003,
+    "month": 10,
+    "type": 3,
+    "deaths": 614
+  },
+  {
+    "year": 2003,
+    "month": 11,
+    "type": 1,
+    "deaths": 856
+  },
+  {
+    "year": 2003,
+    "month": 11,
+    "type": 2,
+    "deaths": 397
+  },
+  {
+    "year": 2003,
+    "month": 11,
+    "type": 3,
+    "deaths": 677
+  },
+  {
+    "year": 2003,
+    "month": 12,
+    "type": 1,
+    "deaths": 1979
+  },
+  {
+    "year": 2003,
+    "month": 12,
+    "type": 2,
+    "deaths": 191
+  },
+  {
+    "year": 2003,
+    "month": 12,
+    "type": 3,
+    "deaths": 1266
+  },
+  {
+    "year": 2004,
+    "month": 1,
+    "type": 1,
+    "deaths": 2634
+  },
+  {
+    "year": 2004,
+    "month": 1,
+    "type": 2,
+    "deaths": 428
+  },
+  {
+    "year": 2004,
+    "month": 1,
+    "type": 3,
+    "deaths": 1537
+  },
+  {
+    "year": 2004,
+    "month": 2,
+    "type": 1,
+    "deaths": 2222
+  },
+  {
+    "year": 2004,
+    "month": 2,
+    "type": 2,
+    "deaths": 481
+  },
+  {
+    "year": 2004,
+    "month": 2,
+    "type": 3,
+    "deaths": 3834
+  },
+  {
+    "year": 2004,
+    "month": 3,
+    "type": 1,
+    "deaths": 1909
+  },
+  {
+    "year": 2004,
+    "month": 3,
+    "type": 2,
+    "deaths": 297
+  },
+  {
+    "year": 2004,
+    "month": 3,
+    "type": 3,
+    "deaths": 1692
+  },
+  {
+    "year": 2004,
+    "month": 4,
+    "type": 1,
+    "deaths": 1239
+  },
+  {
+    "year": 2004,
+    "month": 4,
+    "type": 2,
+    "deaths": 305
+  },
+  {
+    "year": 2004,
+    "month": 4,
+    "type": 3,
+    "deaths": 412
+  },
+  {
+    "year": 2004,
+    "month": 5,
+    "type": 1,
+    "deaths": 1521
+  },
+  {
+    "year": 2004,
+    "month": 5,
+    "type": 2,
+    "deaths": 1441
+  },
+  {
+    "year": 2004,
+    "month": 5,
+    "type": 3,
+    "deaths": 714
+  },
+  {
+    "year": 2004,
+    "month": 6,
+    "type": 1,
+    "deaths": 1409
+  },
+  {
+    "year": 2004,
+    "month": 6,
+    "type": 2,
+    "deaths": 417
+  },
+  {
+    "year": 2004,
+    "month": 6,
+    "type": 3,
+    "deaths": 659
+  },
+  {
+    "year": 2004,
+    "month": 7,
+    "type": 1,
+    "deaths": 1033
+  },
+  {
+    "year": 2004,
+    "month": 7,
+    "type": 2,
+    "deaths": 204
+  },
+  {
+    "year": 2004,
+    "month": 7,
+    "type": 3,
+    "deaths": 680
+  },
+  {
+    "year": 2004,
+    "month": 8,
+    "type": 1,
+    "deaths": 1681
+  },
+  {
+    "year": 2004,
+    "month": 8,
+    "type": 2,
+    "deaths": 285
+  },
+  {
+    "year": 2004,
+    "month": 8,
+    "type": 3,
+    "deaths": 792
+  },
+  {
+    "year": 2004,
+    "month": 9,
+    "type": 1,
+    "deaths": 2327
+  },
+  {
+    "year": 2004,
+    "month": 9,
+    "type": 2,
+    "deaths": 108
+  },
+  {
+    "year": 2004,
+    "month": 9,
+    "type": 3,
+    "deaths": 568
+  },
+  {
+    "year": 2004,
+    "month": 10,
+    "type": 1,
+    "deaths": 928
+  },
+  {
+    "year": 2004,
+    "month": 10,
+    "type": 2,
+    "deaths": 62
+  },
+  {
+    "year": 2004,
+    "month": 10,
+    "type": 3,
+    "deaths": 610
+  },
+  {
+    "year": 2004,
+    "month": 11,
+    "type": 1,
+    "deaths": 2065
+  },
+  {
+    "year": 2004,
+    "month": 11,
+    "type": 2,
+    "deaths": 109
+  },
+  {
+    "year": 2004,
+    "month": 11,
+    "type": 3,
+    "deaths": 521
+  },
+  {
+    "year": 2004,
+    "month": 12,
+    "type": 1,
+    "deaths": 924
+  },
+  {
+    "year": 2004,
+    "month": 12,
+    "type": 2,
+    "deaths": 222
+  },
+  {
+    "year": 2004,
+    "month": 12,
+    "type": 3,
+    "deaths": 428
+  },
+  {
+    "year": 2005,
+    "month": 1,
+    "type": 1,
+    "deaths": 1228
+  },
+  {
+    "year": 2005,
+    "month": 1,
+    "type": 2,
+    "deaths": 335
+  },
+  {
+    "year": 2005,
+    "month": 1,
+    "type": 3,
+    "deaths": 843
+  },
+  {
+    "year": 2005,
+    "month": 2,
+    "type": 1,
+    "deaths": 905
+  },
+  {
+    "year": 2005,
+    "month": 2,
+    "type": 2,
+    "deaths": 166
+  },
+  {
+    "year": 2005,
+    "month": 2,
+    "type": 3,
+    "deaths": 435
+  },
+  {
+    "year": 2005,
+    "month": 3,
+    "type": 1,
+    "deaths": 723
+  },
+  {
+    "year": 2005,
+    "month": 3,
+    "type": 2,
+    "deaths": 234
+  },
+  {
+    "year": 2005,
+    "month": 3,
+    "type": 3,
+    "deaths": 409
+  },
+  {
+    "year": 2005,
+    "month": 4,
+    "type": 1,
+    "deaths": 1029
+  },
+  {
+    "year": 2005,
+    "month": 4,
+    "type": 2,
+    "deaths": 371
+  },
+  {
+    "year": 2005,
+    "month": 4,
+    "type": 3,
+    "deaths": 725
+  },
+  {
+    "year": 2005,
+    "month": 5,
+    "type": 1,
+    "deaths": 1397
+  },
+  {
+    "year": 2005,
+    "month": 5,
+    "type": 2,
+    "deaths": 79
+  },
+  {
+    "year": 2005,
+    "month": 5,
+    "type": 3,
+    "deaths": 450
+  },
+  {
+    "year": 2005,
+    "month": 6,
+    "type": 1,
+    "deaths": 1338
+  },
+  {
+    "year": 2005,
+    "month": 6,
+    "type": 2,
+    "deaths": 188
+  },
+  {
+    "year": 2005,
+    "month": 6,
+    "type": 3,
+    "deaths": 283
+  },
+  {
+    "year": 2005,
+    "month": 7,
+    "type": 1,
+    "deaths": 1090
+  },
+  {
+    "year": 2005,
+    "month": 7,
+    "type": 2,
+    "deaths": 166
+  },
+  {
+    "year": 2005,
+    "month": 7,
+    "type": 3,
+    "deaths": 722
+  },
+  {
+    "year": 2005,
+    "month": 8,
+    "type": 1,
+    "deaths": 959
+  },
+  {
+    "year": 2005,
+    "month": 8,
+    "type": 2,
+    "deaths": 222
+  },
+  {
+    "year": 2005,
+    "month": 8,
+    "type": 3,
+    "deaths": 314
+  },
+  {
+    "year": 2005,
+    "month": 9,
+    "type": 1,
+    "deaths": 1118
+  },
+  {
+    "year": 2005,
+    "month": 9,
+    "type": 2,
+    "deaths": 99
+  },
+  {
+    "year": 2005,
+    "month": 9,
+    "type": 3,
+    "deaths": 808
+  },
+  {
+    "year": 2005,
+    "month": 10,
+    "type": 1,
+    "deaths": 1237
+  },
+  {
+    "year": 2005,
+    "month": 10,
+    "type": 2,
+    "deaths": 385
+  },
+  {
+    "year": 2005,
+    "month": 10,
+    "type": 3,
+    "deaths": 533
+  },
+  {
+    "year": 2005,
+    "month": 11,
+    "type": 1,
+    "deaths": 722
+  },
+  {
+    "year": 2005,
+    "month": 11,
+    "type": 2,
+    "deaths": 107
+  },
+  {
+    "year": 2005,
+    "month": 11,
+    "type": 3,
+    "deaths": 307
+  },
+  {
+    "year": 2005,
+    "month": 12,
+    "type": 1,
+    "deaths": 783
+  },
+  {
+    "year": 2005,
+    "month": 12,
+    "type": 2,
+    "deaths": 29
+  },
+  {
+    "year": 2005,
+    "month": 12,
+    "type": 3,
+    "deaths": 297
+  },
+  {
+    "year": 2006,
+    "month": 1,
+    "type": 1,
+    "deaths": 2795
+  },
+  {
+    "year": 2006,
+    "month": 1,
+    "type": 2,
+    "deaths": 930
+  },
+  {
+    "year": 2006,
+    "month": 1,
+    "type": 3,
+    "deaths": 379
+  },
+  {
+    "year": 2006,
+    "month": 2,
+    "type": 1,
+    "deaths": 713
+  },
+  {
+    "year": 2006,
+    "month": 2,
+    "type": 2,
+    "deaths": 356
+  },
+  {
+    "year": 2006,
+    "month": 2,
+    "type": 3,
+    "deaths": 198
+  },
+  {
+    "year": 2006,
+    "month": 3,
+    "type": 1,
+    "deaths": 1191
+  },
+  {
+    "year": 2006,
+    "month": 3,
+    "type": 2,
+    "deaths": 137
+  },
+  {
+    "year": 2006,
+    "month": 3,
+    "type": 3,
+    "deaths": 355
+  },
+  {
+    "year": 2006,
+    "month": 4,
+    "type": 1,
+    "deaths": 1624
+  },
+  {
+    "year": 2006,
+    "month": 4,
+    "type": 2,
+    "deaths": 199
+  },
+  {
+    "year": 2006,
+    "month": 4,
+    "type": 3,
+    "deaths": 552
+  },
+  {
+    "year": 2006,
+    "month": 5,
+    "type": 1,
+    "deaths": 1138
+  },
+  {
+    "year": 2006,
+    "month": 5,
+    "type": 2,
+    "deaths": 484
+  },
+  {
+    "year": 2006,
+    "month": 5,
+    "type": 3,
+    "deaths": 326
+  },
+  {
+    "year": 2006,
+    "month": 6,
+    "type": 1,
+    "deaths": 1315
+  },
+  {
+    "year": 2006,
+    "month": 6,
+    "type": 2,
+    "deaths": 229
+  },
+  {
+    "year": 2006,
+    "month": 6,
+    "type": 3,
+    "deaths": 391
+  },
+  {
+    "year": 2006,
+    "month": 7,
+    "type": 1,
+    "deaths": 2085
+  },
+  {
+    "year": 2006,
+    "month": 7,
+    "type": 2,
+    "deaths": 412
+  },
+  {
+    "year": 2006,
+    "month": 7,
+    "type": 3,
+    "deaths": 600
+  },
+  {
+    "year": 2006,
+    "month": 8,
+    "type": 1,
+    "deaths": 2556
+  },
+  {
+    "year": 2006,
+    "month": 8,
+    "type": 2,
+    "deaths": 30
+  },
+  {
+    "year": 2006,
+    "month": 8,
+    "type": 3,
+    "deaths": 480
+  },
+  {
+    "year": 2006,
+    "month": 9,
+    "type": 1,
+    "deaths": 1843
+  },
+  {
+    "year": 2006,
+    "month": 9,
+    "type": 2,
+    "deaths": 98
+  },
+  {
+    "year": 2006,
+    "month": 9,
+    "type": 3,
+    "deaths": 293
+  },
+  {
+    "year": 2006,
+    "month": 10,
+    "type": 1,
+    "deaths": 2019
+  },
+  {
+    "year": 2006,
+    "month": 10,
+    "type": 2,
+    "deaths": 192
+  },
+  {
+    "year": 2006,
+    "month": 10,
+    "type": 3,
+    "deaths": 332
+  },
+  {
+    "year": 2006,
+    "month": 11,
+    "type": 1,
+    "deaths": 1408
+  },
+  {
+    "year": 2006,
+    "month": 11,
+    "type": 2,
+    "deaths": 160
+  },
+  {
+    "year": 2006,
+    "month": 11,
+    "type": 3,
+    "deaths": 468
+  },
+  {
+    "year": 2006,
+    "month": 12,
+    "type": 1,
+    "deaths": 1551
+  },
+  {
+    "year": 2006,
+    "month": 12,
+    "type": 2,
+    "deaths": 50
+  },
+  {
+    "year": 2006,
+    "month": 12,
+    "type": 3,
+    "deaths": 330
+  },
+  {
+    "year": 2007,
+    "month": 1,
+    "type": 1,
+    "deaths": 1467
+  },
+  {
+    "year": 2007,
+    "month": 1,
+    "type": 2,
+    "deaths": 695
+  },
+  {
+    "year": 2007,
+    "month": 1,
+    "type": 3,
+    "deaths": 728
+  },
+  {
+    "year": 2007,
+    "month": 2,
+    "type": 1,
+    "deaths": 802
+  },
+  {
+    "year": 2007,
+    "month": 2,
+    "type": 2,
+    "deaths": 143
+  },
+  {
+    "year": 2007,
+    "month": 2,
+    "type": 3,
+    "deaths": 446
+  },
+  {
+    "year": 2007,
+    "month": 3,
+    "type": 1,
+    "deaths": 1670
+  },
+  {
+    "year": 2007,
+    "month": 3,
+    "type": 2,
+    "deaths": 512
+  },
+  {
+    "year": 2007,
+    "month": 3,
+    "type": 3,
+    "deaths": 878
+  },
+  {
+    "year": 2007,
+    "month": 4,
+    "type": 1,
+    "deaths": 1790
+  },
+  {
+    "year": 2007,
+    "month": 4,
+    "type": 2,
+    "deaths": 336
+  },
+  {
+    "year": 2007,
+    "month": 4,
+    "type": 3,
+    "deaths": 580
+  },
+  {
+    "year": 2007,
+    "month": 5,
+    "type": 1,
+    "deaths": 1254
+  },
+  {
+    "year": 2007,
+    "month": 5,
+    "type": 2,
+    "deaths": 284
+  },
+  {
+    "year": 2007,
+    "month": 5,
+    "type": 3,
+    "deaths": 407
+  },
+  {
+    "year": 2007,
+    "month": 6,
+    "type": 1,
+    "deaths": 1830
+  },
+  {
+    "year": 2007,
+    "month": 6,
+    "type": 2,
+    "deaths": 322
+  },
+  {
+    "year": 2007,
+    "month": 6,
+    "type": 3,
+    "deaths": 376
+  },
+  {
+    "year": 2007,
+    "month": 7,
+    "type": 1,
+    "deaths": 1549
+  },
+  {
+    "year": 2007,
+    "month": 7,
+    "type": 2,
+    "deaths": 552
+  },
+  {
+    "year": 2007,
+    "month": 7,
+    "type": 3,
+    "deaths": 180
+  },
+  {
+    "year": 2007,
+    "month": 8,
+    "type": 1,
+    "deaths": 1784
+  },
+  {
+    "year": 2007,
+    "month": 8,
+    "type": 2,
+    "deaths": 287
+  },
+  {
+    "year": 2007,
+    "month": 8,
+    "type": 3,
+    "deaths": 773
+  },
+  {
+    "year": 2007,
+    "month": 9,
+    "type": 1,
+    "deaths": 1757
+  },
+  {
+    "year": 2007,
+    "month": 9,
+    "type": 2,
+    "deaths": 294
+  },
+  {
+    "year": 2007,
+    "month": 9,
+    "type": 3,
+    "deaths": 330
+  },
+  {
+    "year": 2007,
+    "month": 10,
+    "type": 1,
+    "deaths": 2000
+  },
+  {
+    "year": 2007,
+    "month": 10,
+    "type": 2,
+    "deaths": 274
+  },
+  {
+    "year": 2007,
+    "month": 10,
+    "type": 3,
+    "deaths": 159
+  },
+  {
+    "year": 2007,
+    "month": 11,
+    "type": 1,
+    "deaths": 1898
+  },
+  {
+    "year": 2007,
+    "month": 11,
+    "type": 2,
+    "deaths": 337
+  },
+  {
+    "year": 2007,
+    "month": 11,
+    "type": 3,
+    "deaths": 178
+  },
+  {
+    "year": 2007,
+    "month": 12,
+    "type": 1,
+    "deaths": 1430
+  },
+  {
+    "year": 2007,
+    "month": 12,
+    "type": 2,
+    "deaths": 370
+  },
+  {
+    "year": 2007,
+    "month": 12,
+    "type": 3,
+    "deaths": 202
+  },
+  {
+    "year": 2008,
+    "month": 1,
+    "type": 1,
+    "deaths": 2879
+  },
+  {
+    "year": 2008,
+    "month": 1,
+    "type": 2,
+    "deaths": 3096
+  },
+  {
+    "year": 2008,
+    "month": 1,
+    "type": 3,
+    "deaths": 593
+  },
+  {
+    "year": 2008,
+    "month": 2,
+    "type": 1,
+    "deaths": 2014
+  },
+  {
+    "year": 2008,
+    "month": 2,
+    "type": 2,
+    "deaths": 272
+  },
+  {
+    "year": 2008,
+    "month": 2,
+    "type": 3,
+    "deaths": 421
+  },
+  {
+    "year": 2008,
+    "month": 3,
+    "type": 1,
+    "deaths": 1998
+  },
+  {
+    "year": 2008,
+    "month": 3,
+    "type": 2,
+    "deaths": 255
+  },
+  {
+    "year": 2008,
+    "month": 3,
+    "type": 3,
+    "deaths": 380
+  },
+  {
+    "year": 2008,
+    "month": 4,
+    "type": 1,
+    "deaths": 2118
+  },
+  {
+    "year": 2008,
+    "month": 4,
+    "type": 2,
+    "deaths": 236
+  },
+  {
+    "year": 2008,
+    "month": 4,
+    "type": 3,
+    "deaths": 186
+  },
+  {
+    "year": 2008,
+    "month": 5,
+    "type": 1,
+    "deaths": 2499
+  },
+  {
+    "year": 2008,
+    "month": 5,
+    "type": 2,
+    "deaths": 441
+  },
+  {
+    "year": 2008,
+    "month": 5,
+    "type": 3,
+    "deaths": 314
+  },
+  {
+    "year": 2008,
+    "month": 6,
+    "type": 1,
+    "deaths": 1999
+  },
+  {
+    "year": 2008,
+    "month": 6,
+    "type": 2,
+    "deaths": 171
+  },
+  {
+    "year": 2008,
+    "month": 6,
+    "type": 3,
+    "deaths": 199
+  },
+  {
+    "year": 2008,
+    "month": 7,
+    "type": 1,
+    "deaths": 2256
+  },
+  {
+    "year": 2008,
+    "month": 7,
+    "type": 2,
+    "deaths": 263
+  },
+  {
+    "year": 2008,
+    "month": 7,
+    "type": 3,
+    "deaths": 229
+  },
+  {
+    "year": 2008,
+    "month": 8,
+    "type": 1,
+    "deaths": 4052
+  },
+  {
+    "year": 2008,
+    "month": 8,
+    "type": 2,
+    "deaths": 525
+  },
+  {
+    "year": 2008,
+    "month": 8,
+    "type": 3,
+    "deaths": 250
+  },
+  {
+    "year": 2008,
+    "month": 9,
+    "type": 1,
+    "deaths": 3167
+  },
+  {
+    "year": 2008,
+    "month": 9,
+    "type": 2,
+    "deaths": 215
+  },
+  {
+    "year": 2008,
+    "month": 9,
+    "type": 3,
+    "deaths": 389
+  },
+  {
+    "year": 2008,
+    "month": 10,
+    "type": 1,
+    "deaths": 2536
+  },
+  {
+    "year": 2008,
+    "month": 10,
+    "type": 2,
+    "deaths": 193
+  },
+  {
+    "year": 2008,
+    "month": 10,
+    "type": 3,
+    "deaths": 623
+  },
+  {
+    "year": 2008,
+    "month": 11,
+    "type": 1,
+    "deaths": 1567
+  },
+  {
+    "year": 2008,
+    "month": 11,
+    "type": 2,
+    "deaths": 359
+  },
+  {
+    "year": 2008,
+    "month": 11,
+    "type": 3,
+    "deaths": 465
+  },
+  {
+    "year": 2008,
+    "month": 12,
+    "type": 1,
+    "deaths": 1737
+  },
+  {
+    "year": 2008,
+    "month": 12,
+    "type": 2,
+    "deaths": 328
+  },
+  {
+    "year": 2008,
+    "month": 12,
+    "type": 3,
+    "deaths": 662
+  },
+  {
+    "year": 2009,
+    "month": 1,
+    "type": 1,
+    "deaths": 5084
+  },
+  {
+    "year": 2009,
+    "month": 1,
+    "type": 2,
+    "deaths": 4068
+  },
+  {
+    "year": 2009,
+    "month": 1,
+    "type": 3,
+    "deaths": 1111
+  },
+  {
+    "year": 2009,
+    "month": 2,
+    "type": 1,
+    "deaths": 3375
+  },
+  {
+    "year": 2009,
+    "month": 2,
+    "type": 2,
+    "deaths": 517
+  },
+  {
+    "year": 2009,
+    "month": 2,
+    "type": 3,
+    "deaths": 632
+  },
+  {
+    "year": 2009,
+    "month": 3,
+    "type": 1,
+    "deaths": 4354
+  },
+  {
+    "year": 2009,
+    "month": 3,
+    "type": 2,
+    "deaths": 1165
+  },
+  {
+    "year": 2009,
+    "month": 3,
+    "type": 3,
+    "deaths": 392
+  },
+  {
+    "year": 2009,
+    "month": 4,
+    "type": 1,
+    "deaths": 3384
+  },
+  {
+    "year": 2009,
+    "month": 4,
+    "type": 2,
+    "deaths": 449
+  },
+  {
+    "year": 2009,
+    "month": 4,
+    "type": 3,
+    "deaths": 756
+  },
+  {
+    "year": 2009,
+    "month": 5,
+    "type": 1,
+    "deaths": 4931
+  },
+  {
+    "year": 2009,
+    "month": 5,
+    "type": 2,
+    "deaths": 608
+  },
+  {
+    "year": 2009,
+    "month": 5,
+    "type": 3,
+    "deaths": 450
+  },
+  {
+    "year": 2009,
+    "month": 6,
+    "type": 1,
+    "deaths": 2097
+  },
+  {
+    "year": 2009,
+    "month": 6,
+    "type": 2,
+    "deaths": 403
+  },
+  {
+    "year": 2009,
+    "month": 6,
+    "type": 3,
+    "deaths": 376
+  },
+  {
+    "year": 2009,
+    "month": 7,
+    "type": 1,
+    "deaths": 2868
+  },
+  {
+    "year": 2009,
+    "month": 7,
+    "type": 2,
+    "deaths": 502
+  },
+  {
+    "year": 2009,
+    "month": 7,
+    "type": 3,
+    "deaths": 355
+  },
+  {
+    "year": 2009,
+    "month": 8,
+    "type": 1,
+    "deaths": 1549
+  },
+  {
+    "year": 2009,
+    "month": 8,
+    "type": 2,
+    "deaths": 636
+  },
+  {
+    "year": 2009,
+    "month": 8,
+    "type": 3,
+    "deaths": 454
+  },
+  {
+    "year": 2009,
+    "month": 9,
+    "type": 1,
+    "deaths": 1591
+  },
+  {
+    "year": 2009,
+    "month": 9,
+    "type": 2,
+    "deaths": 413
+  },
+  {
+    "year": 2009,
+    "month": 9,
+    "type": 3,
+    "deaths": 412
+  },
+  {
+    "year": 2009,
+    "month": 10,
+    "type": 1,
+    "deaths": 2041
+  },
+  {
+    "year": 2009,
+    "month": 10,
+    "type": 2,
+    "deaths": 294
+  },
+  {
+    "year": 2009,
+    "month": 10,
+    "type": 3,
+    "deaths": 474
+  },
+  {
+    "year": 2009,
+    "month": 11,
+    "type": 1,
+    "deaths": 1889
+  },
+  {
+    "year": 2009,
+    "month": 11,
+    "type": 2,
+    "deaths": 219
+  },
+  {
+    "year": 2009,
+    "month": 11,
+    "type": 3,
+    "deaths": 184
+  },
+  {
+    "year": 2009,
+    "month": 12,
+    "type": 1,
+    "deaths": 1390
+  },
+  {
+    "year": 2009,
+    "month": 12,
+    "type": 2,
+    "deaths": 329
+  },
+  {
+    "year": 2009,
+    "month": 12,
+    "type": 3,
+    "deaths": 538
+  },
+  {
+    "year": 2010,
+    "month": 1,
+    "type": 1,
+    "deaths": 2036
+  },
+  {
+    "year": 2010,
+    "month": 1,
+    "type": 2,
+    "deaths": 2232
+  },
+  {
+    "year": 2010,
+    "month": 1,
+    "type": 3,
+    "deaths": 343
+  },
+  {
+    "year": 2010,
+    "month": 2,
+    "type": 1,
+    "deaths": 1603
+  },
+  {
+    "year": 2010,
+    "month": 2,
+    "type": 2,
+    "deaths": 424
+  },
+  {
+    "year": 2010,
+    "month": 2,
+    "type": 3,
+    "deaths": 419
+  },
+  {
+    "year": 2010,
+    "month": 3,
+    "type": 1,
+    "deaths": 1408
+  },
+  {
+    "year": 2010,
+    "month": 3,
+    "type": 2,
+    "deaths": 1022
+  },
+  {
+    "year": 2010,
+    "month": 3,
+    "type": 3,
+    "deaths": 293
+  },
+  {
+    "year": 2010,
+    "month": 4,
+    "type": 1,
+    "deaths": 1948
+  },
+  {
+    "year": 2010,
+    "month": 4,
+    "type": 2,
+    "deaths": 543
+  },
+  {
+    "year": 2010,
+    "month": 4,
+    "type": 3,
+    "deaths": 385
+  },
+  {
+    "year": 2010,
+    "month": 5,
+    "type": 1,
+    "deaths": 2416
+  },
+  {
+    "year": 2010,
+    "month": 5,
+    "type": 2,
+    "deaths": 529
+  },
+  {
+    "year": 2010,
+    "month": 5,
+    "type": 3,
+    "deaths": 471
+  },
+  {
+    "year": 2010,
+    "month": 6,
+    "type": 1,
+    "deaths": 2166
+  },
+  {
+    "year": 2010,
+    "month": 6,
+    "type": 2,
+    "deaths": 786
+  },
+  {
+    "year": 2010,
+    "month": 6,
+    "type": 3,
+    "deaths": 187
+  },
+  {
+    "year": 2010,
+    "month": 7,
+    "type": 1,
+    "deaths": 2247
+  },
+  {
+    "year": 2010,
+    "month": 7,
+    "type": 2,
+    "deaths": 628
+  },
+  {
+    "year": 2010,
+    "month": 7,
+    "type": 3,
+    "deaths": 606
+  },
+  {
+    "year": 2010,
+    "month": 8,
+    "type": 1,
+    "deaths": 1835
+  },
+  {
+    "year": 2010,
+    "month": 8,
+    "type": 2,
+    "deaths": 655
+  },
+  {
+    "year": 2010,
+    "month": 8,
+    "type": 3,
+    "deaths": 217
+  },
+  {
+    "year": 2010,
+    "month": 9,
+    "type": 1,
+    "deaths": 1489
+  },
+  {
+    "year": 2010,
+    "month": 9,
+    "type": 2,
+    "deaths": 575
+  },
+  {
+    "year": 2010,
+    "month": 9,
+    "type": 3,
+    "deaths": 302
+  },
+  {
+    "year": 2010,
+    "month": 10,
+    "type": 1,
+    "deaths": 1563
+  },
+  {
+    "year": 2010,
+    "month": 10,
+    "type": 2,
+    "deaths": 635
+  },
+  {
+    "year": 2010,
+    "month": 10,
+    "type": 3,
+    "deaths": 159
+  },
+  {
+    "year": 2010,
+    "month": 11,
+    "type": 1,
+    "deaths": 1390
+  },
+  {
+    "year": 2010,
+    "month": 11,
+    "type": 2,
+    "deaths": 515
+  },
+  {
+    "year": 2010,
+    "month": 11,
+    "type": 3,
+    "deaths": 218
+  },
+  {
+    "year": 2010,
+    "month": 12,
+    "type": 1,
+    "deaths": 1222
+  },
+  {
+    "year": 2010,
+    "month": 12,
+    "type": 2,
+    "deaths": 397
+  },
+  {
+    "year": 2010,
+    "month": 12,
+    "type": 3,
+    "deaths": 276
+  },
+  {
+    "year": 2011,
+    "month": 1,
+    "type": 1,
+    "deaths": 1385
+  },
+  {
+    "year": 2011,
+    "month": 1,
+    "type": 2,
+    "deaths": 3454
+  },
+  {
+    "year": 2011,
+    "month": 1,
+    "type": 3,
+    "deaths": 520
+  },
+  {
+    "year": 2011,
+    "month": 2,
+    "type": 1,
+    "deaths": 1918
+  },
+  {
+    "year": 2011,
+    "month": 2,
+    "type": 2,
+    "deaths": 404
+  },
+  {
+    "year": 2011,
+    "month": 2,
+    "type": 3,
+    "deaths": 314
+  },
+  {
+    "year": 2011,
+    "month": 3,
+    "type": 1,
+    "deaths": 2450
+  },
+  {
+    "year": 2011,
+    "month": 3,
+    "type": 2,
+    "deaths": 206
+  },
+  {
+    "year": 2011,
+    "month": 3,
+    "type": 3,
+    "deaths": 1060
+  },
+  {
+    "year": 2011,
+    "month": 4,
+    "type": 1,
+    "deaths": 2053
+  },
+  {
+    "year": 2011,
+    "month": 4,
+    "type": 2,
+    "deaths": 1097
+  },
+  {
+    "year": 2011,
+    "month": 4,
+    "type": 3,
+    "deaths": 907
+  },
+  {
+    "year": 2011,
+    "month": 5,
+    "type": 1,
+    "deaths": 1952
+  },
+  {
+    "year": 2011,
+    "month": 5,
+    "type": 2,
+    "deaths": 481
+  },
+  {
+    "year": 2011,
+    "month": 5,
+    "type": 3,
+    "deaths": 711
+  },
+  {
+    "year": 2011,
+    "month": 6,
+    "type": 1,
+    "deaths": 2365
+  },
+  {
+    "year": 2011,
+    "month": 6,
+    "type": 2,
+    "deaths": 863
+  },
+  {
+    "year": 2011,
+    "month": 6,
+    "type": 3,
+    "deaths": 545
+  },
+  {
+    "year": 2011,
+    "month": 7,
+    "type": 1,
+    "deaths": 2226
+  },
+  {
+    "year": 2011,
+    "month": 7,
+    "type": 2,
+    "deaths": 577
+  },
+  {
+    "year": 2011,
+    "month": 7,
+    "type": 3,
+    "deaths": 471
+  },
+  {
+    "year": 2011,
+    "month": 8,
+    "type": 1,
+    "deaths": 2635
+  },
+  {
+    "year": 2011,
+    "month": 8,
+    "type": 2,
+    "deaths": 904
+  },
+  {
+    "year": 2011,
+    "month": 8,
+    "type": 3,
+    "deaths": 632
+  },
+  {
+    "year": 2011,
+    "month": 9,
+    "type": 1,
+    "deaths": 2122
+  },
+  {
+    "year": 2011,
+    "month": 9,
+    "type": 2,
+    "deaths": 214
+  },
+  {
+    "year": 2011,
+    "month": 9,
+    "type": 3,
+    "deaths": 420
+  },
+  {
+    "year": 2011,
+    "month": 10,
+    "type": 1,
+    "deaths": 2262
+  },
+  {
+    "year": 2011,
+    "month": 10,
+    "type": 2,
+    "deaths": 134
+  },
+  {
+    "year": 2011,
+    "month": 10,
+    "type": 3,
+    "deaths": 321
+  },
+  {
+    "year": 2011,
+    "month": 11,
+    "type": 1,
+    "deaths": 1818
+  },
+  {
+    "year": 2011,
+    "month": 11,
+    "type": 2,
+    "deaths": 207
+  },
+  {
+    "year": 2011,
+    "month": 11,
+    "type": 3,
+    "deaths": 389
+  },
+  {
+    "year": 2011,
+    "month": 12,
+    "type": 1,
+    "deaths": 2092
+  },
+  {
+    "year": 2011,
+    "month": 12,
+    "type": 2,
+    "deaths": 444
+  },
+  {
+    "year": 2011,
+    "month": 12,
+    "type": 3,
+    "deaths": 685
+  },
+  {
+    "year": 2012,
+    "month": 1,
+    "type": 1,
+    "deaths": 11669
+  },
+  {
+    "year": 2012,
+    "month": 1,
+    "type": 2,
+    "deaths": 5878
+  },
+  {
+    "year": 2012,
+    "month": 1,
+    "type": 3,
+    "deaths": 653
+  },
+  {
+    "year": 2012,
+    "month": 2,
+    "type": 1,
+    "deaths": 3061
+  },
+  {
+    "year": 2012,
+    "month": 2,
+    "type": 2,
+    "deaths": 490
+  },
+  {
+    "year": 2012,
+    "month": 2,
+    "type": 3,
+    "deaths": 663
+  },
+  {
+    "year": 2012,
+    "month": 3,
+    "type": 1,
+    "deaths": 4094
+  },
+  {
+    "year": 2012,
+    "month": 3,
+    "type": 2,
+    "deaths": 789
+  },
+  {
+    "year": 2012,
+    "month": 3,
+    "type": 3,
+    "deaths": 349
+  },
+  {
+    "year": 2012,
+    "month": 4,
+    "type": 1,
+    "deaths": 4330
+  },
+  {
+    "year": 2012,
+    "month": 4,
+    "type": 2,
+    "deaths": 131
+  },
+  {
+    "year": 2012,
+    "month": 4,
+    "type": 3,
+    "deaths": 468
+  },
+  {
+    "year": 2012,
+    "month": 5,
+    "type": 1,
+    "deaths": 3430
+  },
+  {
+    "year": 2012,
+    "month": 5,
+    "type": 2,
+    "deaths": 371
+  },
+  {
+    "year": 2012,
+    "month": 5,
+    "type": 3,
+    "deaths": 415
+  },
+  {
+    "year": 2012,
+    "month": 6,
+    "type": 1,
+    "deaths": 5333
+  },
+  {
+    "year": 2012,
+    "month": 6,
+    "type": 2,
+    "deaths": 590
+  },
+  {
+    "year": 2012,
+    "month": 6,
+    "type": 3,
+    "deaths": 465
+  },
+  {
+    "year": 2012,
+    "month": 7,
+    "type": 1,
+    "deaths": 6741
+  },
+  {
+    "year": 2012,
+    "month": 7,
+    "type": 2,
+    "deaths": 243
+  },
+  {
+    "year": 2012,
+    "month": 7,
+    "type": 3,
+    "deaths": 456
+  },
+  {
+    "year": 2012,
+    "month": 8,
+    "type": 1,
+    "deaths": 8916
+  },
+  {
+    "year": 2012,
+    "month": 8,
+    "type": 2,
+    "deaths": 239
+  },
+  {
+    "year": 2012,
+    "month": 8,
+    "type": 3,
+    "deaths": 828
+  },
+  {
+    "year": 2012,
+    "month": 9,
+    "type": 1,
+    "deaths": 7326
+  },
+  {
+    "year": 2012,
+    "month": 9,
+    "type": 2,
+    "deaths": 184
+  },
+  {
+    "year": 2012,
+    "month": 9,
+    "type": 3,
+    "deaths": 745
+  },
+  {
+    "year": 2012,
+    "month": 10,
+    "type": 1,
+    "deaths": 6899
+  },
+  {
+    "year": 2012,
+    "month": 10,
+    "type": 2,
+    "deaths": 287
+  },
+  {
+    "year": 2012,
+    "month": 10,
+    "type": 3,
+    "deaths": 452
+  },
+  {
+    "year": 2012,
+    "month": 11,
+    "type": 1,
+    "deaths": 6332
+  },
+  {
+    "year": 2012,
+    "month": 11,
+    "type": 2,
+    "deaths": 289
+  },
+  {
+    "year": 2012,
+    "month": 11,
+    "type": 3,
+    "deaths": 534
+  },
+  {
+    "year": 2012,
+    "month": 12,
+    "type": 1,
+    "deaths": 6154
+  },
+  {
+    "year": 2012,
+    "month": 12,
+    "type": 2,
+    "deaths": 275
+  },
+  {
+    "year": 2012,
+    "month": 12,
+    "type": 3,
+    "deaths": 678
+  },
+  {
+    "year": 2013,
+    "month": 1,
+    "type": 1,
+    "deaths": 21448
+  },
+  {
+    "year": 2013,
+    "month": 1,
+    "type": 2,
+    "deaths": 4527
+  },
+  {
+    "year": 2013,
+    "month": 1,
+    "type": 3,
+    "deaths": 738
+  },
+  {
+    "year": 2013,
+    "month": 2,
+    "type": 1,
+    "deaths": 7637
+  },
+  {
+    "year": 2013,
+    "month": 2,
+    "type": 2,
+    "deaths": 395
+  },
+  {
+    "year": 2013,
+    "month": 2,
+    "type": 3,
+    "deaths": 602
+  },
+  {
+    "year": 2013,
+    "month": 3,
+    "type": 1,
+    "deaths": 7115
+  },
+  {
+    "year": 2013,
+    "month": 3,
+    "type": 2,
+    "deaths": 344
+  },
+  {
+    "year": 2013,
+    "month": 3,
+    "type": 3,
+    "deaths": 640
+  },
+  {
+    "year": 2013,
+    "month": 4,
+    "type": 1,
+    "deaths": 6426
+  },
+  {
+    "year": 2013,
+    "month": 4,
+    "type": 2,
+    "deaths": 415
+  },
+  {
+    "year": 2013,
+    "month": 4,
+    "type": 3,
+    "deaths": 588
+  },
+  {
+    "year": 2013,
+    "month": 5,
+    "type": 1,
+    "deaths": 7192
+  },
+  {
+    "year": 2013,
+    "month": 5,
+    "type": 2,
+    "deaths": 478
+  },
+  {
+    "year": 2013,
+    "month": 5,
+    "type": 3,
+    "deaths": 1030
+  },
+  {
+    "year": 2013,
+    "month": 6,
+    "type": 1,
+    "deaths": 5332
+  },
+  {
+    "year": 2013,
+    "month": 6,
+    "type": 2,
+    "deaths": 351
+  },
+  {
+    "year": 2013,
+    "month": 6,
+    "type": 3,
+    "deaths": 741
+  },
+  {
+    "year": 2013,
+    "month": 7,
+    "type": 1,
+    "deaths": 6188
+  },
+  {
+    "year": 2013,
+    "month": 7,
+    "type": 2,
+    "deaths": 714
+  },
+  {
+    "year": 2013,
+    "month": 7,
+    "type": 3,
+    "deaths": 1006
+  },
+  {
+    "year": 2013,
+    "month": 8,
+    "type": 1,
+    "deaths": 7248
+  },
+  {
+    "year": 2013,
+    "month": 8,
+    "type": 2,
+    "deaths": 642
+  },
+  {
+    "year": 2013,
+    "month": 8,
+    "type": 3,
+    "deaths": 851
+  },
+  {
+    "year": 2013,
+    "month": 9,
+    "type": 1,
+    "deaths": 6366
+  },
+  {
+    "year": 2013,
+    "month": 9,
+    "type": 2,
+    "deaths": 563
+  },
+  {
+    "year": 2013,
+    "month": 9,
+    "type": 3,
+    "deaths": 1828
+  },
+  {
+    "year": 2013,
+    "month": 10,
+    "type": 1,
+    "deaths": 6325
+  },
+  {
+    "year": 2013,
+    "month": 10,
+    "type": 2,
+    "deaths": 536
+  },
+  {
+    "year": 2013,
+    "month": 10,
+    "type": 3,
+    "deaths": 739
+  },
+  {
+    "year": 2013,
+    "month": 11,
+    "type": 1,
+    "deaths": 5808
+  },
+  {
+    "year": 2013,
+    "month": 11,
+    "type": 2,
+    "deaths": 311
+  },
+  {
+    "year": 2013,
+    "month": 11,
+    "type": 3,
+    "deaths": 553
+  },
+  {
+    "year": 2013,
+    "month": 12,
+    "type": 1,
+    "deaths": 6615
+  },
+  {
+    "year": 2013,
+    "month": 12,
+    "type": 2,
+    "deaths": 326
+  },
+  {
+    "year": 2013,
+    "month": 12,
+    "type": 3,
+    "deaths": 2512
+  },
+  {
+    "year": 2014,
+    "month": 1,
+    "type": 1,
+    "deaths": 24031
+  },
+  {
+    "year": 2014,
+    "month": 1,
+    "type": 2,
+    "deaths": 5626
+  },
+  {
+    "year": 2014,
+    "month": 1,
+    "type": 3,
+    "deaths": 1437
+  },
+  {
+    "year": 2014,
+    "month": 2,
+    "type": 1,
+    "deaths": 6341
+  },
+  {
+    "year": 2014,
+    "month": 2,
+    "type": 2,
+    "deaths": 1188
+  },
+  {
+    "year": 2014,
+    "month": 2,
+    "type": 3,
+    "deaths": 1533
+  },
+  {
+    "year": 2014,
+    "month": 3,
+    "type": 1,
+    "deaths": 7381
+  },
+  {
+    "year": 2014,
+    "month": 3,
+    "type": 2,
+    "deaths": 1392
+  },
+  {
+    "year": 2014,
+    "month": 3,
+    "type": 3,
+    "deaths": 738
+  },
+  {
+    "year": 2014,
+    "month": 4,
+    "type": 1,
+    "deaths": 7751
+  },
+  {
+    "year": 2014,
+    "month": 4,
+    "type": 2,
+    "deaths": 1159
+  },
+  {
+    "year": 2014,
+    "month": 4,
+    "type": 3,
+    "deaths": 1119
+  },
+  {
+    "year": 2014,
+    "month": 5,
+    "type": 1,
+    "deaths": 7610
+  },
+  {
+    "year": 2014,
+    "month": 5,
+    "type": 2,
+    "deaths": 1534
+  },
+  {
+    "year": 2014,
+    "month": 5,
+    "type": 3,
+    "deaths": 1365
+  },
+  {
+    "year": 2014,
+    "month": 6,
+    "type": 1,
+    "deaths": 9909
+  },
+  {
+    "year": 2014,
+    "month": 6,
+    "type": 2,
+    "deaths": 1191
+  },
+  {
+    "year": 2014,
+    "month": 6,
+    "type": 3,
+    "deaths": 2194
+  },
+  {
+    "year": 2014,
+    "month": 7,
+    "type": 1,
+    "deaths": 11364
+  },
+  {
+    "year": 2014,
+    "month": 7,
+    "type": 2,
+    "deaths": 1324
+  },
+  {
+    "year": 2014,
+    "month": 7,
+    "type": 3,
+    "deaths": 920
+  },
+  {
+    "year": 2014,
+    "month": 8,
+    "type": 1,
+    "deaths": 10085
+  },
+  {
+    "year": 2014,
+    "month": 8,
+    "type": 2,
+    "deaths": 941
+  },
+  {
+    "year": 2014,
+    "month": 8,
+    "type": 3,
+    "deaths": 2457
+  },
+  {
+    "year": 2014,
+    "month": 9,
+    "type": 1,
+    "deaths": 8997
+  },
+  {
+    "year": 2014,
+    "month": 9,
+    "type": 2,
+    "deaths": 1041
+  },
+  {
+    "year": 2014,
+    "month": 9,
+    "type": 3,
+    "deaths": 703
+  },
+  {
+    "year": 2014,
+    "month": 10,
+    "type": 1,
+    "deaths": 8620
+  },
+  {
+    "year": 2014,
+    "month": 10,
+    "type": 2,
+    "deaths": 2239
+  },
+  {
+    "year": 2014,
+    "month": 10,
+    "type": 3,
+    "deaths": 873
+  },
+  {
+    "year": 2014,
+    "month": 11,
+    "type": 1,
+    "deaths": 6843
+  },
+  {
+    "year": 2014,
+    "month": 11,
+    "type": 2,
+    "deaths": 1332
+  },
+  {
+    "year": 2014,
+    "month": 11,
+    "type": 3,
+    "deaths": 1060
+  },
+  {
+    "year": 2014,
+    "month": 12,
+    "type": 1,
+    "deaths": 7290
+  },
+  {
+    "year": 2014,
+    "month": 12,
+    "type": 2,
+    "deaths": 912
+  },
+  {
+    "year": 2014,
+    "month": 12,
+    "type": 3,
+    "deaths": 1128
+  },
+  {
+    "year": 2015,
+    "month": 1,
+    "type": 1,
+    "deaths": 22318
+  },
+  {
+    "year": 2015,
+    "month": 1,
+    "type": 2,
+    "deaths": 4659
+  },
+  {
+    "year": 2015,
+    "month": 1,
+    "type": 3,
+    "deaths": 1438
+  },
+  {
+    "year": 2015,
+    "month": 2,
+    "type": 1,
+    "deaths": 8554
+  },
+  {
+    "year": 2015,
+    "month": 2,
+    "type": 2,
+    "deaths": 1260
+  },
+  {
+    "year": 2015,
+    "month": 2,
+    "type": 3,
+    "deaths": 1171
+  },
+  {
+    "year": 2015,
+    "month": 3,
+    "type": 1,
+    "deaths": 7308
+  },
+  {
+    "year": 2015,
+    "month": 3,
+    "type": 2,
+    "deaths": 1119
+  },
+  {
+    "year": 2015,
+    "month": 3,
+    "type": 3,
+    "deaths": 828
+  },
+  {
+    "year": 2015,
+    "month": 4,
+    "type": 1,
+    "deaths": 7615
+  },
+  {
+    "year": 2015,
+    "month": 4,
+    "type": 2,
+    "deaths": 775
+  },
+  {
+    "year": 2015,
+    "month": 4,
+    "type": 3,
+    "deaths": 898
+  },
+  {
+    "year": 2015,
+    "month": 5,
+    "type": 1,
+    "deaths": 9445
+  },
+  {
+    "year": 2015,
+    "month": 5,
+    "type": 2,
+    "deaths": 1672
+  },
+  {
+    "year": 2015,
+    "month": 5,
+    "type": 3,
+    "deaths": 1055
+  },
+  {
+    "year": 2015,
+    "month": 6,
+    "type": 1,
+    "deaths": 7436
+  },
+  {
+    "year": 2015,
+    "month": 6,
+    "type": 2,
+    "deaths": 1768
+  },
+  {
+    "year": 2015,
+    "month": 6,
+    "type": 3,
+    "deaths": 966
+  },
+  {
+    "year": 2015,
+    "month": 7,
+    "type": 1,
+    "deaths": 7457
+  },
+  {
+    "year": 2015,
+    "month": 7,
+    "type": 2,
+    "deaths": 1184
+  },
+  {
+    "year": 2015,
+    "month": 7,
+    "type": 3,
+    "deaths": 1065
+  },
+  {
+    "year": 2015,
+    "month": 8,
+    "type": 1,
+    "deaths": 7572
+  },
+  {
+    "year": 2015,
+    "month": 8,
+    "type": 2,
+    "deaths": 974
+  },
+  {
+    "year": 2015,
+    "month": 8,
+    "type": 3,
+    "deaths": 602
+  },
+  {
+    "year": 2015,
+    "month": 9,
+    "type": 1,
+    "deaths": 7654
+  },
+  {
+    "year": 2015,
+    "month": 9,
+    "type": 2,
+    "deaths": 599
+  },
+  {
+    "year": 2015,
+    "month": 9,
+    "type": 3,
+    "deaths": 622
+  },
+  {
+    "year": 2015,
+    "month": 10,
+    "type": 1,
+    "deaths": 7161
+  },
+  {
+    "year": 2015,
+    "month": 10,
+    "type": 2,
+    "deaths": 507
+  },
+  {
+    "year": 2015,
+    "month": 10,
+    "type": 3,
+    "deaths": 1079
+  },
+  {
+    "year": 2015,
+    "month": 11,
+    "type": 1,
+    "deaths": 5698
+  },
+  {
+    "year": 2015,
+    "month": 11,
+    "type": 2,
+    "deaths": 938
+  },
+  {
+    "year": 2015,
+    "month": 11,
+    "type": 3,
+    "deaths": 670
+  },
+  {
+    "year": 2015,
+    "month": 12,
+    "type": 1,
+    "deaths": 6483
+  },
+  {
+    "year": 2015,
+    "month": 12,
+    "type": 2,
+    "deaths": 639
+  },
+  {
+    "year": 2015,
+    "month": 12,
+    "type": 3,
+    "deaths": 668
+  },
+  {
+    "year": 2016,
+    "month": 1,
+    "type": 1,
+    "deaths": 21339
+  },
+  {
+    "year": 2016,
+    "month": 1,
+    "type": 2,
+    "deaths": 4397
+  },
+  {
+    "year": 2016,
+    "month": 1,
+    "type": 3,
+    "deaths": 751
+  },
+  {
+    "year": 2016,
+    "month": 2,
+    "type": 1,
+    "deaths": 7477
+  },
+  {
+    "year": 2016,
+    "month": 2,
+    "type": 2,
+    "deaths": 1423
+  },
+  {
+    "year": 2016,
+    "month": 2,
+    "type": 3,
+    "deaths": 608
+  },
+  {
+    "year": 2016,
+    "month": 3,
+    "type": 1,
+    "deaths": 5781
+  },
+  {
+    "year": 2016,
+    "month": 3,
+    "type": 2,
+    "deaths": 1069
+  },
+  {
+    "year": 2016,
+    "month": 3,
+    "type": 3,
+    "deaths": 518
+  },
+  {
+    "year": 2016,
+    "month": 4,
+    "type": 1,
+    "deaths": 5772
+  },
+  {
+    "year": 2016,
+    "month": 4,
+    "type": 2,
+    "deaths": 1432
+  },
+  {
+    "year": 2016,
+    "month": 4,
+    "type": 3,
+    "deaths": 419
+  },
+  {
+    "year": 2016,
+    "month": 5,
+    "type": 1,
+    "deaths": 6119
+  },
+  {
+    "year": 2016,
+    "month": 5,
+    "type": 2,
+    "deaths": 1473
+  },
+  {
+    "year": 2016,
+    "month": 5,
+    "type": 3,
+    "deaths": 806
+  },
+  {
+    "year": 2016,
+    "month": 6,
+    "type": 1,
+    "deaths": 6709
+  },
+  {
+    "year": 2016,
+    "month": 6,
+    "type": 2,
+    "deaths": 1646
+  },
+  {
+    "year": 2016,
+    "month": 6,
+    "type": 3,
+    "deaths": 471
+  },
+  {
+    "year": 2016,
+    "month": 7,
+    "type": 1,
+    "deaths": 6419
+  },
+  {
+    "year": 2016,
+    "month": 7,
+    "type": 2,
+    "deaths": 1114
+  },
+  {
+    "year": 2016,
+    "month": 7,
+    "type": 3,
+    "deaths": 901
+  },
+  {
+    "year": 2016,
+    "month": 8,
+    "type": 1,
+    "deaths": 6471
+  },
+  {
+    "year": 2016,
+    "month": 8,
+    "type": 2,
+    "deaths": 862
+  },
+  {
+    "year": 2016,
+    "month": 8,
+    "type": 3,
+    "deaths": 537
+  },
+  {
+    "year": 2016,
+    "month": 9,
+    "type": 1,
+    "deaths": 5382
+  },
+  {
+    "year": 2016,
+    "month": 9,
+    "type": 2,
+    "deaths": 786
+  },
+  {
+    "year": 2016,
+    "month": 9,
+    "type": 3,
+    "deaths": 515
+  },
+  {
+    "year": 2016,
+    "month": 10,
+    "type": 1,
+    "deaths": 8310
+  },
+  {
+    "year": 2016,
+    "month": 10,
+    "type": 2,
+    "deaths": 995
+  },
+  {
+    "year": 2016,
+    "month": 10,
+    "type": 3,
+    "deaths": 1168
+  },
+  {
+    "year": 2016,
+    "month": 11,
+    "type": 1,
+    "deaths": 6142
+  },
+  {
+    "year": 2016,
+    "month": 11,
+    "type": 2,
+    "deaths": 1416
+  },
+  {
+    "year": 2016,
+    "month": 11,
+    "type": 3,
+    "deaths": 768
+  },
+  {
+    "year": 2016,
+    "month": 12,
+    "type": 1,
+    "deaths": 5002
+  },
+  {
+    "year": 2016,
+    "month": 12,
+    "type": 2,
+    "deaths": 801
+  },
+  {
+    "year": 2016,
+    "month": 12,
+    "type": 3,
+    "deaths": 734
+  },
+  {
+    "year": 2017,
+    "month": 1,
+    "type": 1,
+    "deaths": 7745
+  },
+  {
+    "year": 2017,
+    "month": 1,
+    "type": 2,
+    "deaths": 12424
+  },
+  {
+    "year": 2017,
+    "month": 1,
+    "type": 3,
+    "deaths": 608
+  },
+  {
+    "year": 2017,
+    "month": 2,
+    "type": 1,
+    "deaths": 6643
+  },
+  {
+    "year": 2017,
+    "month": 2,
+    "type": 2,
+    "deaths": 1476
+  },
+  {
+    "year": 2017,
+    "month": 2,
+    "type": 3,
+    "deaths": 696
+  },
+  {
+    "year": 2017,
+    "month": 3,
+    "type": 1,
+    "deaths": 7300
+  },
+  {
+    "year": 2017,
+    "month": 3,
+    "type": 2,
+    "deaths": 1213
+  },
+  {
+    "year": 2017,
+    "month": 3,
+    "type": 3,
+    "deaths": 600
+  },
+  {
+    "year": 2017,
+    "month": 4,
+    "type": 1,
+    "deaths": 6534
+  },
+  {
+    "year": 2017,
+    "month": 4,
+    "type": 2,
+    "deaths": 1533
+  },
+  {
+    "year": 2017,
+    "month": 4,
+    "type": 3,
+    "deaths": 1170
+  },
+  {
+    "year": 2017,
+    "month": 5,
+    "type": 1,
+    "deaths": 6618
+  },
+  {
+    "year": 2017,
+    "month": 5,
+    "type": 2,
+    "deaths": 2000
+  },
+  {
+    "year": 2017,
+    "month": 5,
+    "type": 3,
+    "deaths": 1242
+  },
+  {
+    "year": 2017,
+    "month": 6,
+    "type": 1,
+    "deaths": 4584
+  },
+  {
+    "year": 2017,
+    "month": 6,
+    "type": 2,
+    "deaths": 3288
+  },
+  {
+    "year": 2017,
+    "month": 6,
+    "type": 3,
+    "deaths": 681
+  },
+  {
+    "year": 2017,
+    "month": 7,
+    "type": 1,
+    "deaths": 5505
+  },
+  {
+    "year": 2017,
+    "month": 7,
+    "type": 2,
+    "deaths": 2302
+  },
+  {
+    "year": 2017,
+    "month": 7,
+    "type": 3,
+    "deaths": 429
+  },
+  {
+    "year": 2017,
+    "month": 8,
+    "type": 1,
+    "deaths": 5724
+  },
+  {
+    "year": 2017,
+    "month": 8,
+    "type": 2,
+    "deaths": 2027
+  },
+  {
+    "year": 2017,
+    "month": 8,
+    "type": 3,
+    "deaths": 2388
+  },
+  {
+    "year": 2017,
+    "month": 9,
+    "type": 1,
+    "deaths": 7509
+  },
+  {
+    "year": 2017,
+    "month": 9,
+    "type": 2,
+    "deaths": 1373
+  },
+  {
+    "year": 2017,
+    "month": 9,
+    "type": 3,
+    "deaths": 383
+  },
+  {
+    "year": 2017,
+    "month": 10,
+    "type": 1,
+    "deaths": 5661
+  },
+  {
+    "year": 2017,
+    "month": 10,
+    "type": 2,
+    "deaths": 1892
+  },
+  {
+    "year": 2017,
+    "month": 10,
+    "type": 3,
+    "deaths": 505
+  },
+  {
+    "year": 2017,
+    "month": 11,
+    "type": 1,
+    "deaths": 4583
+  },
+  {
+    "year": 2017,
+    "month": 11,
+    "type": 2,
+    "deaths": 960
+  },
+  {
+    "year": 2017,
+    "month": 11,
+    "type": 3,
+    "deaths": 561
+  },
+  {
+    "year": 2017,
+    "month": 12,
+    "type": 1,
+    "deaths": 3945
+  },
+  {
+    "year": 2017,
+    "month": 12,
+    "type": 2,
+    "deaths": 969
+  },
+  {
+    "year": 2017,
+    "month": 12,
+    "type": 3,
+    "deaths": 288
+  },
+  {
+    "year": 2018,
+    "month": 1,
+    "type": 1,
+    "deaths": 4945
+  },
+  {
+    "year": 2018,
+    "month": 1,
+    "type": 2,
+    "deaths": 13815
+  },
+  {
+    "year": 2018,
+    "month": 1,
+    "type": 3,
+    "deaths": 370
+  },
+  {
+    "year": 2018,
+    "month": 2,
+    "type": 1,
+    "deaths": 4483
+  },
+  {
+    "year": 2018,
+    "month": 2,
+    "type": 2,
+    "deaths": 2223
+  },
+  {
+    "year": 2018,
+    "month": 2,
+    "type": 3,
+    "deaths": 238
+  },
+  {
+    "year": 2018,
+    "month": 3,
+    "type": 1,
+    "deaths": 5577
+  },
+  {
+    "year": 2018,
+    "month": 3,
+    "type": 2,
+    "deaths": 1516
+  },
+  {
+    "year": 2018,
+    "month": 3,
+    "type": 3,
+    "deaths": 350
+  },
+  {
+    "year": 2018,
+    "month": 4,
+    "type": 1,
+    "deaths": 4627
+  },
+  {
+    "year": 2018,
+    "month": 4,
+    "type": 2,
+    "deaths": 897
+  },
+  {
+    "year": 2018,
+    "month": 4,
+    "type": 3,
+    "deaths": 445
+  },
+  {
+    "year": 2018,
+    "month": 5,
+    "type": 1,
+    "deaths": 4832
+  },
+  {
+    "year": 2018,
+    "month": 5,
+    "type": 2,
+    "deaths": 726
+  },
+  {
+    "year": 2018,
+    "month": 5,
+    "type": 3,
+    "deaths": 446
+  },
+  {
+    "year": 2018,
+    "month": 6,
+    "type": 1,
+    "deaths": 4702
+  },
+  {
+    "year": 2018,
+    "month": 6,
+    "type": 2,
+    "deaths": 1084
+  },
+  {
+    "year": 2018,
+    "month": 6,
+    "type": 3,
+    "deaths": 408
+  },
+  {
+    "year": 2018,
+    "month": 7,
+    "type": 1,
+    "deaths": 5835
+  },
+  {
+    "year": 2018,
+    "month": 7,
+    "type": 2,
+    "deaths": 1301
+  },
+  {
+    "year": 2018,
+    "month": 7,
+    "type": 3,
+    "deaths": 496
+  },
+  {
+    "year": 2018,
+    "month": 8,
+    "type": 1,
+    "deaths": 4005
+  },
+  {
+    "year": 2018,
+    "month": 8,
+    "type": 2,
+    "deaths": 631
+  },
+  {
+    "year": 2018,
+    "month": 8,
+    "type": 3,
+    "deaths": 401
+  },
+  {
+    "year": 2018,
+    "month": 9,
+    "type": 1,
+    "deaths": 4135
+  },
+  {
+    "year": 2018,
+    "month": 9,
+    "type": 2,
+    "deaths": 1161
+  },
+  {
+    "year": 2018,
+    "month": 9,
+    "type": 3,
+    "deaths": 352
+  },
+  {
+    "year": 2018,
+    "month": 10,
+    "type": 1,
+    "deaths": 3759
+  },
+  {
+    "year": 2018,
+    "month": 10,
+    "type": 2,
+    "deaths": 1585
+  },
+  {
+    "year": 2018,
+    "month": 10,
+    "type": 3,
+    "deaths": 438
+  },
+  {
+    "year": 2018,
+    "month": 11,
+    "type": 1,
+    "deaths": 4990
+  },
+  {
+    "year": 2018,
+    "month": 11,
+    "type": 2,
+    "deaths": 1497
+  },
+  {
+    "year": 2018,
+    "month": 11,
+    "type": 3,
+    "deaths": 500
+  },
+  {
+    "year": 2018,
+    "month": 12,
+    "type": 1,
+    "deaths": 3504
+  },
+  {
+    "year": 2018,
+    "month": 12,
+    "type": 2,
+    "deaths": 1971
+  },
+  {
+    "year": 2018,
+    "month": 12,
+    "type": 3,
+    "deaths": 965
+  },
+  {
+    "year": 2019,
+    "month": 1,
+    "type": 1,
+    "deaths": 4259
+  },
+  {
+    "year": 2019,
+    "month": 1,
+    "type": 2,
+    "deaths": 3005
+  },
+  {
+    "year": 2019,
+    "month": 1,
+    "type": 3,
+    "deaths": 845
+  },
+  {
+    "year": 2019,
+    "month": 2,
+    "type": 1,
+    "deaths": 3275
+  },
+  {
+    "year": 2019,
+    "month": 2,
+    "type": 2,
+    "deaths": 1498
+  },
+  {
+    "year": 2019,
+    "month": 2,
+    "type": 3,
+    "deaths": 375
+  },
+  {
+    "year": 2019,
+    "month": 3,
+    "type": 1,
+    "deaths": 4007
+  },
+  {
+    "year": 2019,
+    "month": 3,
+    "type": 2,
+    "deaths": 1763
+  },
+  {
+    "year": 2019,
+    "month": 3,
+    "type": 3,
+    "deaths": 464
+  },
+  {
+    "year": 2019,
+    "month": 4,
+    "type": 1,
+    "deaths": 4467
+  },
+  {
+    "year": 2019,
+    "month": 4,
+    "type": 2,
+    "deaths": 1400
+  },
+  {
+    "year": 2019,
+    "month": 4,
+    "type": 3,
+    "deaths": 678
+  },
+  {
+    "year": 2019,
+    "month": 5,
+    "type": 1,
+    "deaths": 5247
+  },
+  {
+    "year": 2019,
+    "month": 5,
+    "type": 2,
+    "deaths": 1143
+  },
+  {
+    "year": 2019,
+    "month": 5,
+    "type": 3,
+    "deaths": 498
+  },
+  {
+    "year": 2019,
+    "month": 6,
+    "type": 1,
+    "deaths": 5003
+  },
+  {
+    "year": 2019,
+    "month": 6,
+    "type": 2,
+    "deaths": 1730
+  },
+  {
+    "year": 2019,
+    "month": 6,
+    "type": 3,
+    "deaths": 436
+  },
+  {
+    "year": 2019,
+    "month": 7,
+    "type": 1,
+    "deaths": 5683
+  },
+  {
+    "year": 2019,
+    "month": 7,
+    "type": 2,
+    "deaths": 1299
+  },
+  {
+    "year": 2019,
+    "month": 7,
+    "type": 3,
+    "deaths": 371
+  },
+  {
+    "year": 2019,
+    "month": 8,
+    "type": 1,
+    "deaths": 5302
+  },
+  {
+    "year": 2019,
+    "month": 8,
+    "type": 2,
+    "deaths": 1532
+  },
+  {
+    "year": 2019,
+    "month": 8,
+    "type": 3,
+    "deaths": 460
+  },
+  {
+    "year": 2019,
+    "month": 9,
+    "type": 1,
+    "deaths": 4914
+  },
+  {
+    "year": 2019,
+    "month": 9,
+    "type": 2,
+    "deaths": 1260
+  },
+  {
+    "year": 2019,
+    "month": 9,
+    "type": 3,
+    "deaths": 387
+  },
+  {
+    "year": 2019,
+    "month": 10,
+    "type": 1,
+    "deaths": 3746
+  },
+  {
+    "year": 2019,
+    "month": 10,
+    "type": 2,
+    "deaths": 2205
+  },
+  {
+    "year": 2019,
+    "month": 10,
+    "type": 3,
+    "deaths": 349
+  },
+  {
+    "year": 2019,
+    "month": 11,
+    "type": 1,
+    "deaths": 2990
+  },
+  {
+    "year": 2019,
+    "month": 11,
+    "type": 2,
+    "deaths": 1415
+  },
+  {
+    "year": 2019,
+    "month": 11,
+    "type": 3,
+    "deaths": 640
+  },
+  {
+    "year": 2019,
+    "month": 12,
+    "type": 1,
+    "deaths": 3982
+  },
+  {
+    "year": 2019,
+    "month": 12,
+    "type": 2,
+    "deaths": 1215
+  },
+  {
+    "year": 2019,
+    "month": 12,
+    "type": 3,
+    "deaths": 447
+  },
+  {
+    "year": 2020,
+    "month": 1,
+    "type": 1,
+    "deaths": 5815
+  },
+  {
+    "year": 2020,
+    "month": 1,
+    "type": 2,
+    "deaths": 5410
+  },
+  {
+    "year": 2020,
+    "month": 1,
+    "type": 3,
+    "deaths": 590
+  },
+  {
+    "year": 2020,
+    "month": 2,
+    "type": 1,
+    "deaths": 5537
+  },
+  {
+    "year": 2020,
+    "month": 2,
+    "type": 2,
+    "deaths": 1465
+  },
+  {
+    "year": 2020,
+    "month": 2,
+    "type": 3,
+    "deaths": 688
+  },
+  {
+    "year": 2020,
+    "month": 3,
+    "type": 1,
+    "deaths": 3752
+  },
+  {
+    "year": 2020,
+    "month": 3,
+    "type": 2,
+    "deaths": 1574
+  },
+  {
+    "year": 2020,
+    "month": 3,
+    "type": 3,
+    "deaths": 606
+  },
+  {
+    "year": 2020,
+    "month": 4,
+    "type": 1,
+    "deaths": 2986
+  },
+  {
+    "year": 2020,
+    "month": 4,
+    "type": 2,
+    "deaths": 1404
+  },
+  {
+    "year": 2020,
+    "month": 4,
+    "type": 3,
+    "deaths": 569
+  },
+  {
+    "year": 2020,
+    "month": 5,
+    "type": 1,
+    "deaths": 3148
+  },
+  {
+    "year": 2020,
+    "month": 5,
+    "type": 2,
+    "deaths": 1917
+  },
+  {
+    "year": 2020,
+    "month": 5,
+    "type": 3,
+    "deaths": 668
+  },
+  {
+    "year": 2020,
+    "month": 6,
+    "type": 1,
+    "deaths": 2974
+  },
+  {
+    "year": 2020,
+    "month": 6,
+    "type": 2,
+    "deaths": 2028
+  },
+  {
+    "year": 2020,
+    "month": 6,
+    "type": 3,
+    "deaths": 690
+  },
+  {
+    "year": 2020,
+    "month": 7,
+    "type": 1,
+    "deaths": 2811
+  },
+  {
+    "year": 2020,
+    "month": 7,
+    "type": 2,
+    "deaths": 1809
+  },
+  {
+    "year": 2020,
+    "month": 7,
+    "type": 3,
+    "deaths": 604
+  },
+  {
+    "year": 2020,
+    "month": 8,
+    "type": 1,
+    "deaths": 4002
+  },
+  {
+    "year": 2020,
+    "month": 8,
+    "type": 2,
+    "deaths": 1231
+  },
+  {
+    "year": 2020,
+    "month": 8,
+    "type": 3,
+    "deaths": 475
+  },
+  {
+    "year": 2020,
+    "month": 9,
+    "type": 1,
+    "deaths": 9185
+  },
+  {
+    "year": 2020,
+    "month": 9,
+    "type": 2,
+    "deaths": 1426
+  },
+  {
+    "year": 2020,
+    "month": 9,
+    "type": 3,
+    "deaths": 426
+  },
+  {
+    "year": 2020,
+    "month": 10,
+    "type": 1,
+    "deaths": 5881
+  },
+  {
+    "year": 2020,
+    "month": 10,
+    "type": 2,
+    "deaths": 1346
+  },
+  {
+    "year": 2020,
+    "month": 10,
+    "type": 3,
+    "deaths": 577
+  },
+  {
+    "year": 2020,
+    "month": 11,
+    "type": 1,
+    "deaths": 24080
+  },
+  {
+    "year": 2020,
+    "month": 11,
+    "type": 2,
+    "deaths": 813
+  },
+  {
+    "year": 2020,
+    "month": 11,
+    "type": 3,
+    "deaths": 2683
+  },
+  {
+    "year": 2020,
+    "month": 12,
+    "type": 1,
+    "deaths": 3324
+  },
+  {
+    "year": 2020,
+    "month": 12,
+    "type": 2,
+    "deaths": 894
+  },
+  {
+    "year": 2020,
+    "month": 12,
+    "type": 3,
+    "deaths": 803
+  },
+  {
+    "year": 2021,
+    "month": 1,
+    "type": 1,
+    "deaths": 118987
+  },
+  {
+    "year": 2021,
+    "month": 1,
+    "type": 2,
+    "deaths": 2507
+  },
+  {
+    "year": 2021,
+    "month": 1,
+    "type": 3,
+    "deaths": 1483
+  },
+  {
+    "year": 2021,
+    "month": 2,
+    "type": 1,
+    "deaths": 8361
+  },
+  {
+    "year": 2021,
+    "month": 2,
+    "type": 2,
+    "deaths": 1592
+  },
+  {
+    "year": 2021,
+    "month": 2,
+    "type": 3,
+    "deaths": 1399
+  },
+  {
+    "year": 2021,
+    "month": 3,
+    "type": 1,
+    "deaths": 4188
+  },
+  {
+    "year": 2021,
+    "month": 3,
+    "type": 2,
+    "deaths": 1649
+  },
+  {
+    "year": 2021,
+    "month": 3,
+    "type": 3,
+    "deaths": 2537
+  },
+  {
+    "year": 2021,
+    "month": 4,
+    "type": 1,
+    "deaths": 7324
+  },
+  {
+    "year": 2021,
+    "month": 4,
+    "type": 2,
+    "deaths": 2411
+  },
+  {
+    "year": 2021,
+    "month": 4,
+    "type": 3,
+    "deaths": 1050
+  },
+  {
+    "year": 2021,
+    "month": 5,
+    "type": 1,
+    "deaths": 6819
+  },
+  {
+    "year": 2021,
+    "month": 5,
+    "type": 2,
+    "deaths": 1918
+  },
+  {
+    "year": 2021,
+    "month": 5,
+    "type": 3,
+    "deaths": 671
+  },
+  {
+    "year": 2021,
+    "month": 6,
+    "type": 1,
+    "deaths": 20480
+  },
+  {
+    "year": 2021,
+    "month": 6,
+    "type": 2,
+    "deaths": 1798
+  },
+  {
+    "year": 2021,
+    "month": 6,
+    "type": 3,
+    "deaths": 749
+  },
+  {
+    "year": 2021,
+    "month": 7,
+    "type": 1,
+    "deaths": 11095
+  },
+  {
+    "year": 2021,
+    "month": 7,
+    "type": 2,
+    "deaths": 1922
+  },
+  {
+    "year": 2021,
+    "month": 7,
+    "type": 3,
+    "deaths": 754
+  },
+  {
+    "year": 2021,
+    "month": 8,
+    "type": 1,
+    "deaths": 7838
+  },
+  {
+    "year": 2021,
+    "month": 8,
+    "type": 2,
+    "deaths": 1682
+  },
+  {
+    "year": 2021,
+    "month": 8,
+    "type": 3,
+    "deaths": 575
+  },
+  {
+    "year": 2021,
+    "month": 9,
+    "type": 1,
+    "deaths": 2610
+  },
+  {
+    "year": 2021,
+    "month": 9,
+    "type": 2,
+    "deaths": 1726
+  },
+  {
+    "year": 2021,
+    "month": 9,
+    "type": 3,
+    "deaths": 605
+  },
+  {
+    "year": 2021,
+    "month": 10,
+    "type": 1,
+    "deaths": 5687
+  },
+  {
+    "year": 2021,
+    "month": 10,
+    "type": 2,
+    "deaths": 1922
+  },
+  {
+    "year": 2021,
+    "month": 10,
+    "type": 3,
+    "deaths": 579
+  },
+  {
+    "year": 2021,
+    "month": 11,
+    "type": 1,
+    "deaths": 3986
+  },
+  {
+    "year": 2021,
+    "month": 11,
+    "type": 2,
+    "deaths": 1587
+  },
+  {
+    "year": 2021,
+    "month": 11,
+    "type": 3,
+    "deaths": 710
+  },
+  {
+    "year": 2021,
+    "month": 12,
+    "type": 1,
+    "deaths": 2822
+  },
+  {
+    "year": 2021,
+    "month": 12,
+    "type": 2,
+    "deaths": 1530
+  },
+  {
+    "year": 2021,
+    "month": 12,
+    "type": 3,
+    "deaths": 1289
+  },
+  {
+    "year": 2022,
+    "month": 1,
+    "type": 1,
+    "deaths": 3450
+  },
+  {
+    "year": 2022,
+    "month": 1,
+    "type": 2,
+    "deaths": 10250
+  },
+  {
+    "year": 2022,
+    "month": 1,
+    "type": 3,
+    "deaths": 622
+  },
+  {
+    "year": 2022,
+    "month": 2,
+    "type": 1,
+    "deaths": 20668
+  },
+  {
+    "year": 2022,
+    "month": 2,
+    "type": 2,
+    "deaths": 570
+  },
+  {
+    "year": 2022,
+    "month": 2,
+    "type": 3,
+    "deaths": 920
+  },
+  {
+    "year": 2022,
+    "month": 3,
+    "type": 1,
+    "deaths": 28847
+  },
+  {
+    "year": 2022,
+    "month": 3,
+    "type": 2,
+    "deaths": 1137
+  },
+  {
+    "year": 2022,
+    "month": 3,
+    "type": 3,
+    "deaths": 2165
+  },
+  {
+    "year": 2022,
+    "month": 4,
+    "type": 1,
+    "deaths": 6744
+  },
+  {
+    "year": 2022,
+    "month": 4,
+    "type": 2,
+    "deaths": 976
+  },
+  {
+    "year": 2022,
+    "month": 4,
+    "type": 3,
+    "deaths": 1098
+  },
+  {
+    "year": 2022,
+    "month": 5,
+    "type": 1,
+    "deaths": 6574
+  },
+  {
+    "year": 2022,
+    "month": 5,
+    "type": 2,
+    "deaths": 568
+  },
+  {
+    "year": 2022,
+    "month": 5,
+    "type": 3,
+    "deaths": 1003
+  },
+  {
+    "year": 2022,
+    "month": 6,
+    "type": 1,
+    "deaths": 4908
+  },
+  {
+    "year": 2022,
+    "month": 6,
+    "type": 2,
+    "deaths": 721
+  },
+  {
+    "year": 2022,
+    "month": 6,
+    "type": 3,
+    "deaths": 1182
+  },
+  {
+    "year": 2022,
+    "month": 7,
+    "type": 1,
+    "deaths": 4433
+  },
+  {
+    "year": 2022,
+    "month": 7,
+    "type": 2,
+    "deaths": 873
+  },
+  {
+    "year": 2022,
+    "month": 7,
+    "type": 3,
+    "deaths": 533
+  },
+  {
+    "year": 2022,
+    "month": 8,
+    "type": 1,
+    "deaths": 164706
+  },
+  {
+    "year": 2022,
+    "month": 8,
+    "type": 2,
+    "deaths": 791
+  },
+  {
+    "year": 2022,
+    "month": 8,
+    "type": 3,
+    "deaths": 839
+  },
+  {
+    "year": 2022,
+    "month": 9,
+    "type": 1,
+    "deaths": 9265
+  },
+  {
+    "year": 2022,
+    "month": 9,
+    "type": 2,
+    "deaths": 1047
+  },
+  {
+    "year": 2022,
+    "month": 9,
+    "type": 3,
+    "deaths": 884
+  },
+  {
+    "year": 2022,
+    "month": 10,
+    "type": 1,
+    "deaths": 7516
+  },
+  {
+    "year": 2022,
+    "month": 10,
+    "type": 2,
+    "deaths": 1167
+  },
+  {
+    "year": 2022,
+    "month": 10,
+    "type": 3,
+    "deaths": 883
+  },
+  {
+    "year": 2022,
+    "month": 11,
+    "type": 1,
+    "deaths": 9185
+  },
+  {
+    "year": 2022,
+    "month": 11,
+    "type": 2,
+    "deaths": 970
+  },
+  {
+    "year": 2022,
+    "month": 11,
+    "type": 3,
+    "deaths": 1513
+  },
+  {
+    "year": 2022,
+    "month": 12,
+    "type": 1,
+    "deaths": 10897
+  },
+  {
+    "year": 2022,
+    "month": 12,
+    "type": 2,
+    "deaths": 986
+  },
+  {
+    "year": 2022,
+    "month": 12,
+    "type": 3,
+    "deaths": 701
+  },
+  {
+    "year": 2023,
+    "month": 1,
+    "type": 1,
+    "deaths": 19976
+  },
+  {
+    "year": 2023,
+    "month": 1,
+    "type": 2,
+    "deaths": 7910
+  },
+  {
+    "year": 2023,
+    "month": 1,
+    "type": 3,
+    "deaths": 892
+  },
+  {
+    "year": 2023,
+    "month": 2,
+    "type": 1,
+    "deaths": 8002
+  },
+  {
+    "year": 2023,
+    "month": 2,
+    "type": 2,
+    "deaths": 1150
+  },
+  {
+    "year": 2023,
+    "month": 2,
+    "type": 3,
+    "deaths": 776
+  },
+  {
+    "year": 2023,
+    "month": 3,
+    "type": 1,
+    "deaths": 7892
+  },
+  {
+    "year": 2023,
+    "month": 3,
+    "type": 2,
+    "deaths": 753
+  },
+  {
+    "year": 2023,
+    "month": 3,
+    "type": 3,
+    "deaths": 831
+  },
+  {
+    "year": 2023,
+    "month": 4,
+    "type": 1,
+    "deaths": 6697
+  },
+  {
+    "year": 2023,
+    "month": 4,
+    "type": 2,
+    "deaths": 1056
+  },
+  {
+    "year": 2023,
+    "month": 4,
+    "type": 3,
+    "deaths": 1160
+  },
+  {
+    "year": 2023,
+    "month": 5,
+    "type": 1,
+    "deaths": 7016
+  },
+  {
+    "year": 2023,
+    "month": 5,
+    "type": 2,
+    "deaths": 1075
+  },
+  {
+    "year": 2023,
+    "month": 5,
+    "type": 3,
+    "deaths": 766
+  },
+  {
+    "year": 2023,
+    "month": 6,
+    "type": 1,
+    "deaths": 7001
+  },
+  {
+    "year": 2023,
+    "month": 6,
+    "type": 2,
+    "deaths": 1075
+  },
+  {
+    "year": 2023,
+    "month": 6,
+    "type": 3,
+    "deaths": 851
+  },
+  {
+    "year": 2023,
+    "month": 7,
+    "type": 1,
+    "deaths": 6548
+  },
+  {
+    "year": 2023,
+    "month": 7,
+    "type": 2,
+    "deaths": 1299
+  },
+  {
+    "year": 2023,
+    "month": 7,
+    "type": 3,
+    "deaths": 769
+  },
+  {
+    "year": 2023,
+    "month": 8,
+    "type": 1,
+    "deaths": 6626
+  },
+  {
+    "year": 2023,
+    "month": 8,
+    "type": 2,
+    "deaths": 1070
+  },
+  {
+    "year": 2023,
+    "month": 8,
+    "type": 3,
+    "deaths": 739
+  },
+  {
+    "year": 2023,
+    "month": 9,
+    "type": 1,
+    "deaths": 6885
+  },
+  {
+    "year": 2023,
+    "month": 9,
+    "type": 2,
+    "deaths": 835
+  },
+  {
+    "year": 2023,
+    "month": 9,
+    "type": 3,
+    "deaths": 547
+  },
+  {
+    "year": 2023,
+    "month": 10,
+    "type": 1,
+    "deaths": 22578
+  },
+  {
+    "year": 2023,
+    "month": 10,
+    "type": 2,
+    "deaths": 1074
+  },
+  {
+    "year": 2023,
+    "month": 10,
+    "type": 3,
+    "deaths": 1320
+  },
+  {
+    "year": 2023,
+    "month": 11,
+    "type": 1,
+    "deaths": 16195
+  },
+  {
+    "year": 2023,
+    "month": 11,
+    "type": 2,
+    "deaths": 781
+  },
+  {
+    "year": 2023,
+    "month": 11,
+    "type": 3,
+    "deaths": 1877
+  },
+  {
+    "year": 2023,
+    "month": 12,
+    "type": 1,
+    "deaths": 15838
+  },
+  {
+    "year": 2023,
+    "month": 12,
+    "type": 2,
+    "deaths": 843
+  },
+  {
+    "year": 2023,
+    "month": 12,
+    "type": 3,
+    "deaths": 512
+  },
+  {
+    "year": 2024,
+    "month": 1,
+    "type": 1,
+    "deaths": 20369
+  },
+  {
+    "year": 2024,
+    "month": 1,
+    "type": 2,
+    "deaths": 6799
+  },
+  {
+    "year": 2024,
+    "month": 1,
+    "type": 3,
+    "deaths": 2119
+  },
+  {
+    "year": 2024,
+    "month": 2,
+    "type": 1,
+    "deaths": 9415
+  },
+  {
+    "year": 2024,
+    "month": 2,
+    "type": 2,
+    "deaths": 1394
+  },
+  {
+    "year": 2024,
+    "month": 2,
+    "type": 3,
+    "deaths": 1181
+  },
+  {
+    "year": 2024,
+    "month": 3,
+    "type": 1,
+    "deaths": 9514
+  },
+  {
+    "year": 2024,
+    "month": 3,
+    "type": 2,
+    "deaths": 782
+  },
+  {
+    "year": 2024,
+    "month": 3,
+    "type": 3,
+    "deaths": 901
+  },
+  {
+    "year": 2024,
+    "month": 4,
+    "type": 1,
+    "deaths": 7451
+  },
+  {
+    "year": 2024,
+    "month": 4,
+    "type": 2,
+    "deaths": 1474
+  },
+  {
+    "year": 2024,
+    "month": 4,
+    "type": 3,
+    "deaths": 948
+  },
+  {
+    "year": 2024,
+    "month": 5,
+    "type": 1,
+    "deaths": 8978
+  },
+  {
+    "year": 2024,
+    "month": 5,
+    "type": 2,
+    "deaths": 554
+  },
+  {
+    "year": 2024,
+    "month": 5,
+    "type": 3,
+    "deaths": 1221
+  },
+  {
+    "year": 2024,
+    "month": 6,
+    "type": 1,
+    "deaths": 8508
+  },
+  {
+    "year": 2024,
+    "month": 6,
+    "type": 2,
+    "deaths": 641
+  },
+  {
+    "year": 2024,
+    "month": 6,
+    "type": 3,
+    "deaths": 1712
+  },
+  {
+    "year": 2024,
+    "month": 7,
+    "type": 1,
+    "deaths": 9452
+  },
+  {
+    "year": 2024,
+    "month": 7,
+    "type": 2,
+    "deaths": 1076
+  },
+  {
+    "year": 2024,
+    "month": 7,
+    "type": 3,
+    "deaths": 796
+  },
+  {
+    "year": 2024,
+    "month": 8,
+    "type": 1,
+    "deaths": 9212
+  },
+  {
+    "year": 2024,
+    "month": 8,
+    "type": 2,
+    "deaths": 1146
+  },
+  {
+    "year": 2024,
+    "month": 8,
+    "type": 3,
+    "deaths": 1102
+  },
+  {
+    "year": 2024,
+    "month": 9,
+    "type": 1,
+    "deaths": 10457
+  },
+  {
+    "year": 2024,
+    "month": 9,
+    "type": 2,
+    "deaths": 1313
+  },
+  {
+    "year": 2024,
+    "month": 9,
+    "type": 3,
+    "deaths": 646
+  },
+  {
+    "year": 2024,
+    "month": 10,
+    "type": 1,
+    "deaths": 12335
+  },
+  {
+    "year": 2024,
+    "month": 10,
+    "type": 2,
+    "deaths": 934
+  },
+  {
+    "year": 2024,
+    "month": 10,
+    "type": 3,
+    "deaths": 1552
+  },
+  {
+    "year": 2024,
+    "month": 11,
+    "type": 1,
+    "deaths": 11572
+  },
+  {
+    "year": 2024,
+    "month": 11,
+    "type": 2,
+    "deaths": 801
+  },
+  {
+    "year": 2024,
+    "month": 11,
+    "type": 3,
+    "deaths": 893
+  },
+  {
+    "year": 2024,
+    "month": 12,
+    "type": 1,
+    "deaths": 11287
+  },
+  {
+    "year": 2024,
+    "month": 12,
+    "type": 2,
+    "deaths": 1018
+  },
+  {
+    "year": 2024,
+    "month": 12,
+    "type": 3,
+    "deaths": 1276
+  }
+]

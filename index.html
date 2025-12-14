@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UCDP Conflict Visualization Explorer</title>
+    
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css" />
+    
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Header -->
+    <header id="dashboard-header">
+        <div class="header-content">
+            <h1>UCDP Conflict Visualization Explorer</h1>
+            <div id="filter-summary">
+                <span id="filter-text">Showing all events (1989-2024)</span>
+            </div>
+            <button id="reset-button" class="btn-reset">Reset All Filters</button>
+        </div>
+    </header>
+
+    <!-- Global Controls (Time Slider) -->
+    <section id="global-controls">
+        <div id="time-slider-container">
+            <label for="time-slider">Time Range:</label>
+            <div id="time-slider-wrapper">
+                <input type="range" id="time-slider-start" min="1989" max="2024" value="1989" step="1">
+                <input type="range" id="time-slider-end" min="1989" max="2024" value="2024" step="1">
+            </div>
+            <div id="time-display">
+                <span id="time-start-label">1989</span> - <span id="time-end-label">2024</span>
+            </div>
+        </div>
+    </section>
+
+    <!-- Main Dashboard Grid -->
+    <main id="dashboard-container">
+        <!-- Left Column: Map (Primary) -->
+        <section id="map-section" class="view-container primary-view">
+            <div class="view-header">
+                <h2>Geographic Distribution</h2>
+                <div id="map-controls">
+                    <!-- Legend -->
+                    <div id="violence-legend" class="legend">
+                        <div class="legend-item" data-type="1">
+                            <span class="legend-color state-based"></span>
+                            <span class="legend-label">State-based</span>
+                        </div>
+                        <div class="legend-item" data-type="2">
+                            <span class="legend-color non-state"></span>
+                            <span class="legend-label">Non-state</span>
+                        </div>
+                        <div class="legend-item" data-type="3">
+                            <span class="legend-color one-sided"></span>
+                            <span class="legend-label">One-sided</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div id="map" class="visualization"></div>
+        </section>
+
+        <!-- Right Column: Top (Timeline) -->
+        <section id="timeline-section" class="view-container secondary-view">
+            <div class="view-header">
+                <h2>Temporal Trends</h2>
+                <div class="view-subtitle">Deaths by Type Over Time</div>
+            </div>
+            <svg id="timeline-chart" class="visualization"></svg>
+        </section>
+
+        <!-- Right Column: Middle (Civilian Impact) -->
+        <section id="civilian-section" class="view-container secondary-view">
+            <div class="view-header">
+                <h2>Civilian Impact</h2>
+                <div class="view-subtitle">Top 12 Conflicts by Civilian Deaths</div>
+            </div>
+            <svg id="civilian-chart" class="visualization"></svg>
+        </section>
+
+        <!-- Bottom Row: Uncertainty -->
+        <section id="uncertainty-section" class="view-container secondary-view full-width">
+            <div class="view-header">
+                <h2>Data Uncertainty</h2>
+                <div class="view-subtitle">
+                    Death estimates with uncertainty ranges (low - best - high)
+                </div>
+                <div class="view-controls">
+                    <label>
+                        <input type="checkbox" id="log-scale-toggle">
+                        Logarithmic Scale
+                    </label>
+                </div>
+            </div>
+            <svg id="uncertainty-chart" class="visualization"></svg>
+        </section>
+    </main>
+
+    <!-- Detail Panel (shown on click) -->
+    <aside id="detail-panel" class="hidden">
+        <button id="close-detail" class="close-btn">&times;</button>
+        <h3 id="detail-title"></h3>
+        <div id="detail-content"></div>
+    </aside>
+
+    <!-- Loading Overlay -->
+    <div id="loading-overlay">
+        <div class="spinner"></div>
+        <p>Loading conflict data...</p>
+    </div>
+
+    <!-- Scripts -->
+    <!-- D3.js -->
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    
+    <!-- Leaflet -->
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
+    
+    <!-- Application Scripts -->
+    <script src="main.js"></script>
+    <script src="map-view.js"></script>
+    <script src="timeline-view.js"></script>
+    <script src="civilian-view.js"></script>
+    <script src="uncertainty-view.js"></script>
+    
+    <!-- Initialize -->
+    <script>
+        // Initialize application when DOM is ready
+        document.addEventListener('DOMContentLoaded', () => {
+            initializeDashboard();
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,21 @@
+{
+  "generated_at": "2025-12-14T17:08:37.881526",
+  "source_file": "data/GEDEvent.csv",
+  "total_events": 385667,
+  "sampled_events": 9972,
+  "total_conflicts": 1531,
+  "date_range": {
+    "start": "1989-01-01",
+    "end": "2024-12-31"
+  },
+  "total_deaths": {
+    "best": 3954558,
+    "low": 3292292,
+    "high": 5829475
+  },
+  "by_violence_type": {
+    "1": 2371037,
+    "2": 390956,
+    "3": 1192565
+  }
+}
