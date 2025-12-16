@@ -44,7 +44,7 @@ function initializeCivilianChart() {
     // Center line
     const centerLine = g.append('line')
         .attr('class', 'center-line')
-        .attr('stroke', '#95a5a6')
+        .attr('stroke', '#404040')
         .attr('stroke-width', 2)
         .attr('y1', 0)
         .attr('y2', dims.height);
@@ -176,8 +176,8 @@ function initializeCivilianChart() {
         const html = `
             <strong>${d.name}</strong>
             <div class="tooltip-divider"></div>
-            <div style="color: #e67e22">Civilian: ${d.civilian_deaths.toLocaleString()} (${civilianPct}%)</div>
-            <div style="color: #34495e">Combatant: ${d.combatant_deaths.toLocaleString()} (${combatantPct}%)</div>
+            <div style="color: #f39c12">Civilian: ${d.civilian_deaths.toLocaleString()} (${civilianPct}%)</div>
+            <div style="color: #95a5a6">Combatant: ${d.combatant_deaths.toLocaleString()} (${combatantPct}%)</div>
             <div>Total: ${d.best.toLocaleString()}</div>
             <div class="tooltip-divider"></div>
             <div>Duration: ${d.start_year} - ${d.end_year}</div>

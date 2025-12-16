@@ -30,7 +30,7 @@ function initializeTimeline() {
     const xScale = d3.scaleTime().range([0, dims.width]);
     const yScale = d3.scaleLinear().range([dims.height, 0]);
     
-    // Axes - FIXED: Reduced ticks to prevent overlapping
+    // Axes
     const xAxis = d3.axisBottom(xScale).ticks(6);
     const yAxis = d3.axisLeft(yScale).ticks(4);
     
@@ -40,8 +40,6 @@ function initializeTimeline() {
     
     const yAxisGroup = g.append('g')
         .attr('class', 'axis y-axis');
-    
-    // REMOVED: Y-axis label (Deaths) - now in subtitle
     
     // Grid
     const gridGroup = g.append('g').attr('class', 'grid');
@@ -207,9 +205,9 @@ function initializeTimeline() {
             <strong>${formatMonthYear(d.date)}</strong>
             <div class="tooltip-divider"></div>
             <div>Total Deaths: ${total.toLocaleString()}</div>
-            <div style="color: #3498db">State-based: ${d.type_1.toLocaleString()}</div>
-            <div style="color: #e67e22">Non-state: ${d.type_2.toLocaleString()}</div>
-            <div style="color: #9b59b6">One-sided: ${d.type_3.toLocaleString()}</div>
+            <div style="color: #5dade2">State-based: ${d.type_1.toLocaleString()}</div>
+            <div style="color: #f39c12">Non-state: ${d.type_2.toLocaleString()}</div>
+            <div style="color: #af7ac5">One-sided: ${d.type_3.toLocaleString()}</div>
         `;
         
         tooltip

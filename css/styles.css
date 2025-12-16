@@ -11,20 +11,21 @@
 
 body {
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
-    background-color: #f5f6fa;
-    color: #2c3e50;
+    background-color: #0a0a0a;
+    color: #e0e0e0;
     overflow-x: hidden;
 }
 
 /* === Header === */
 #dashboard-header {
-    background: linear-gradient(135deg, #2c3e50 0%, #34495e 100%);
-    color: white;
+    background: linear-gradient(135deg, #1a1a1a 0%, #252525 100%);
+    color: #e0e0e0;
     padding: 1rem 2rem;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    box-shadow: 0 2px 8px rgba(0,0,0,0.5);
     position: sticky;
     top: 0;
     z-index: 1000;
+    border-bottom: 1px solid #333;
 }
 
 .header-content {
@@ -38,17 +39,19 @@ body {
 #dashboard-header h1 {
     font-size: 1.5rem;
     font-weight: 600;
+    color: #ffffff;
 }
 
 #filter-summary {
     flex: 1;
     text-align: center;
     font-size: 0.9rem;
-    opacity: 0.9;
+    opacity: 0.8;
+    color: #b0b0b0;
 }
 
 .btn-reset {
-    background-color: #e74c3c;
+    background-color: #c0392b;
     color: white;
     border: none;
     padding: 0.5rem 1rem;
@@ -59,15 +62,15 @@ body {
 }
 
 .btn-reset:hover {
-    background-color: #c0392b;
+    background-color: #e74c3c;
 }
 
 /* === Global Controls === */
 #global-controls {
-    background: white;
+    background: #1a1a1a;
     padding: 0.75rem 2rem;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-    border-bottom: 1px solid #ecf0f1;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.5);
+    border-bottom: 1px solid #2a2a2a;
 }
 
 #time-slider-container {
@@ -80,7 +83,7 @@ body {
     font-weight: 600;
     display: inline-block;
     margin-right: 1rem;
-    color: #2c3e50;
+    color: #e0e0e0;
 }
 
 #time-slider-wrapper {
@@ -97,7 +100,7 @@ body {
     appearance: none;
     height: 6px;
     border-radius: 3px;
-    background: #bdc3c7;
+    background: #404040;
     outline: none;
 }
 
@@ -108,9 +111,9 @@ body {
     width: 16px;
     height: 16px;
     border-radius: 50%;
-    background: #3498db;
+    background: #5dade2;
     cursor: pointer;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+    box-shadow: 0 2px 4px rgba(0,0,0,0.5);
 }
 
 #time-slider-start::-moz-range-thumb,
@@ -118,10 +121,10 @@ body {
     width: 16px;
     height: 16px;
     border-radius: 50%;
-    background: #3498db;
+    background: #5dade2;
     cursor: pointer;
     border: none;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+    box-shadow: 0 2px 4px rgba(0,0,0,0.5);
 }
 
 #time-display {
@@ -129,7 +132,7 @@ body {
     margin-left: 1rem;
     font-size: 0.9rem;
     font-weight: 600;
-    color: #2c3e50;
+    color: #e0e0e0;
     vertical-align: middle;
 }
 
@@ -147,9 +150,10 @@ body {
 
 /* === View Containers === */
 .view-container {
-    background: white;
+    background: #1a1a1a;
     border-radius: 8px;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    box-shadow: 0 2px 8px rgba(0,0,0,0.5);
+    border: 1px solid #2a2a2a;
     padding: 1rem;
     overflow: hidden;
     display: flex;
@@ -162,18 +166,18 @@ body {
     justify-content: space-between;
     align-items: center;
     position: relative;
-    z-index: 600;  /* FIXED: Higher z-index for view headers */
+    z-index: 600;
 }
 
 .view-header h2 {
     font-size: 1.1rem;
     font-weight: 600;
-    color: #2c3e50;
+    color: #ffffff;
 }
 
 .view-subtitle {
     font-size: 0.85rem;
-    color: #7f8c8d;
+    color: #909090;
     font-style: italic;
 }
 
@@ -188,6 +192,11 @@ body {
     display: flex;
     align-items: center;
     gap: 0.25rem;
+    color: #b0b0b0;
+}
+
+.view-controls input[type="checkbox"] {
+    cursor: pointer;
 }
 
 .visualization {
@@ -235,14 +244,14 @@ body {
 }
 
 .leaflet-container {
-    background-color: #1a1a1a;
-    z-index: 1;  /* FIXED: Ensure map stays below headers */
+    background-color: #0a0a0a;
+    z-index: 1;
 }
 
 /* Custom marker styles - Two-tier feedback system */
 .conflict-marker {
     border-radius: 50%;
-    border: 2px solid white !important;  /* Keep constant */
+    border: 2px solid rgba(255,255,255,0.8) !important;
     opacity: 0.7;
     transition: opacity 0.2s ease, box-shadow 0.2s ease, transform 0.15s ease;
     cursor: pointer !important;
@@ -252,20 +261,20 @@ body {
 .conflict-marker.hover-local {
     opacity: 1 !important;
     transform: scale(1.15);
-    box-shadow: 0 0 6px 2px rgba(241, 196, 15, 0.6) !important;
+    box-shadow: 0 0 8px 3px rgba(241, 196, 15, 0.7) !important;
     z-index: 999 !important;
 }
 
 .conflict-marker.state-based {
-    background-color: #3498db;
+    background-color: #5dade2;
 }
 
 .conflict-marker.non-state {
-    background-color: #e67e22;
+    background-color: #f39c12;
 }
 
 .conflict-marker.one-sided {
-    background-color: #9b59b6;
+    background-color: #af7ac5;
 }
 
 /* DELAYED CROSS-VIEW HIGHLIGHTING - stronger effect */
@@ -275,7 +284,7 @@ body {
 
 .conflict-marker.highlighted {
     opacity: 1 !important;
-    box-shadow: 0 0 12px 4px #f1c40f !important;
+    box-shadow: 0 0 14px 5px #f1c40f !important;
     z-index: 1001 !important;
 }
 
@@ -284,21 +293,22 @@ body {
     display: flex;
     gap: 1rem;
     padding: 0.5rem;
-    background: white;
+    background: #252525;
     border-radius: 4px;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    box-shadow: 0 2px 4px rgba(0,0,0,0.5);
+    border: 1px solid #333;
     position: relative;
-    z-index: 600;  /* FIXED: Higher z-index to stay above map */
+    z-index: 600;
 }
 
 #map-controls {
     position: relative;
-    z-index: 600;  /* FIXED: Ensure controls are above map */
+    z-index: 600;
 }
 
 #violence-legend {
     position: relative;
-    z-index: 600;  /* FIXED: Ensure legend is above map */
+    z-index: 600;
 }
 
 .legend-item {
@@ -310,11 +320,11 @@ body {
     border-radius: 4px;
     transition: background-color 0.2s;
     position: relative;
-    z-index: 601;  /* FIXED: Even higher for individual items */
+    z-index: 601;
 }
 
 .legend-item:hover {
-    background-color: #ecf0f1;
+    background-color: #2a2a2a;
 }
 
 .legend-item.inactive {
@@ -325,25 +335,26 @@ body {
     width: 16px;
     height: 16px;
     border-radius: 50%;
-    border: 2px solid white;
-    box-shadow: 0 1px 3px rgba(0,0,0,0.3);
+    border: 2px solid rgba(255,255,255,0.6);
+    box-shadow: 0 1px 3px rgba(0,0,0,0.5);
 }
 
 .legend-color.state-based {
-    background-color: #3498db;
+    background-color: #5dade2;
 }
 
 .legend-color.non-state {
-    background-color: #e67e22;
+    background-color: #f39c12;
 }
 
 .legend-color.one-sided {
-    background-color: #9b59b6;
+    background-color: #af7ac5;
 }
 
 .legend-label {
     font-size: 0.85rem;
     font-weight: 500;
+    color: #e0e0e0;
 }
 
 /* === Chart Styles === */
@@ -362,15 +373,15 @@ svg {
 }
 
 .timeline-area.state-based {
-    fill: #3498db;
+    fill: #5dade2;
 }
 
 .timeline-area.non-state {
-    fill: #e67e22;
+    fill: #f39c12;
 }
 
 .timeline-area.one-sided {
-    fill: #9b59b6;
+    fill: #af7ac5;
 }
 
 .axis {
@@ -379,26 +390,30 @@ svg {
 
 .axis path,
 .axis line {
-    stroke: #95a5a6;
+    stroke: #505050;
 }
 
 .axis text {
-    fill: #2c3e50;
+    fill: #b0b0b0;
+}
+
+.axis-label {
+    fill: #b0b0b0;
 }
 
 .grid line {
-    stroke: #ecf0f1;
+    stroke: #2a2a2a;
     stroke-opacity: 0.7;
 }
 
 /* Civilian Impact Chart */
 .civilian-bar {
-    fill: #e67e22;
+    fill: #f39c12;
     transition: opacity 0.2s;
 }
 
 .combatant-bar {
-    fill: #34495e;
+    fill: #7f8c8d;
     transition: opacity 0.2s;
 }
 
@@ -421,21 +436,25 @@ svg {
     stroke-width: 2px;
 }
 
+.center-line {
+    stroke: #404040;
+}
+
 /* Uncertainty Chart */
 .uncertainty-point {
     transition: r 0.2s;
 }
 
 .uncertainty-point.state-based {
-    fill: #3498db;
+    fill: #5dade2;
 }
 
 .uncertainty-point.non-state {
-    fill: #e67e22;
+    fill: #f39c12;
 }
 
 .uncertainty-point.one-sided {
-    fill: #9b59b6;
+    fill: #af7ac5;
 }
 
 .uncertainty-line {
@@ -444,15 +463,19 @@ svg {
 }
 
 .uncertainty-line.state-based {
-    stroke: #3498db;
+    stroke: #5dade2;
 }
 
 .uncertainty-line.non-state {
-    stroke: #e67e22;
+    stroke: #f39c12;
 }
 
 .uncertainty-line.one-sided {
-    stroke: #9b59b6;
+    stroke: #af7ac5;
+}
+
+.uncertainty-cap {
+    stroke: #707070;
 }
 
 .uncertainty-group:hover .uncertainty-point {
@@ -476,23 +499,24 @@ svg {
 .tooltip {
     position: absolute;
     padding: 0.75rem;
-    background: rgba(44, 62, 80, 0.95);
-    color: white;
+    background: rgba(20, 20, 20, 0.95);
+    color: #e0e0e0;
     border-radius: 4px;
     font-size: 0.85rem;
     pointer-events: none;
     z-index: 10000;
-    box-shadow: 0 4px 6px rgba(0,0,0,0.2);
+    box-shadow: 0 4px 12px rgba(0,0,0,0.6);
+    border: 1px solid #404040;
     max-width: 300px;
 }
 
 .tooltip strong {
-    color: #3498db;
+    color: #5dade2;
 }
 
 .tooltip-divider {
     height: 1px;
-    background: rgba(255,255,255,0.2);
+    background: rgba(255,255,255,0.15);
     margin: 0.5rem 0;
 }
 
@@ -503,8 +527,9 @@ svg {
     top: 80px;
     width: 400px;
     height: calc(100vh - 80px);
-    background: white;
-    box-shadow: -4px 0 8px rgba(0,0,0,0.1);
+    background: #1a1a1a;
+    box-shadow: -4px 0 12px rgba(0,0,0,0.6);
+    border-left: 1px solid #2a2a2a;
     padding: 1.5rem;
     overflow-y: auto;
     z-index: 2000;
@@ -523,7 +548,7 @@ svg {
     border: none;
     font-size: 2rem;
     cursor: pointer;
-    color: #95a5a6;
+    color: #707070;
     transition: color 0.2s;
 }
 
@@ -535,7 +560,7 @@ svg {
     margin-bottom: 1rem;
     padding-right: 2rem;
     font-size: 1.2rem;
-    color: #2c3e50;
+    color: #ffffff;
 }
 
 #detail-content {
@@ -548,7 +573,7 @@ svg {
 
 .detail-section h4 {
     font-size: 0.9rem;
-    color: #7f8c8d;
+    color: #909090;
     margin-bottom: 0.5rem;
     text-transform: uppercase;
     letter-spacing: 0.5px;
@@ -556,30 +581,31 @@ svg {
 
 .detail-section p {
     font-size: 1rem;
-    color: #2c3e50;
+    color: #e0e0e0;
 }
 
 .detail-divider {
     height: 2px;
-    background: linear-gradient(90deg, #3498db 0%, transparent 100%);
+    background: linear-gradient(90deg, #5dade2 0%, transparent 100%);
     margin: 1.5rem 0;
 }
 
 .detail-section.event-specific {
-    border-left: 3px solid #3498db;
+    border-left: 3px solid #5dade2;
     padding-left: 0.75rem;
 }
 
 .detail-section.conflict-context {
-    background: #f8f9fa;
+    background: #252525;
     padding: 1rem;
     border-radius: 4px;
+    border: 1px solid #2a2a2a;
 }
 
 .btn-view-conflict {
     margin-top: 0.75rem;
-    background: #3498db;
-    color: white;
+    background: #5dade2;
+    color: #ffffff;
     border: none;
     padding: 0.5rem 1rem;
     border-radius: 4px;
@@ -590,7 +616,7 @@ svg {
 }
 
 .btn-view-conflict:hover {
-    background: #2980b9;
+    background: #3498db;
 }
 
 /* === Loading Overlay === */
@@ -600,7 +626,7 @@ svg {
     left: 0;
     width: 100%;
     height: 100%;
-    background: rgba(44, 62, 80, 0.9);
+    background: rgba(10, 10, 10, 0.95);
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -617,8 +643,8 @@ svg {
 .spinner {
     width: 50px;
     height: 50px;
-    border: 4px solid rgba(52, 152, 219, 0.3);
-    border-top-color: #3498db;
+    border: 4px solid rgba(93, 173, 226, 0.3);
+    border-top-color: #5dade2;
     border-radius: 50%;
     animation: spin 1s linear infinite;
 }
@@ -629,7 +655,7 @@ svg {
 
 #loading-overlay p {
     margin-top: 1rem;
-    color: white;
+    color: #e0e0e0;
     font-size: 1rem;
 }
 

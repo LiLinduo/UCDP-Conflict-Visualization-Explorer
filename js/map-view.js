@@ -141,7 +141,6 @@ function initializeMap() {
             const element = layer.getElement();
             if (!element) return;
             
-            // Don't override hover-local state
             if (element.classList.contains('hover-local')) return;
             
             if (layer.conflictId === conflictId) {

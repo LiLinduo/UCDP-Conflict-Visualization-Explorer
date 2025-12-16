@@ -17,7 +17,7 @@ function initializeUncertaintyChart() {
     }
     
     let dims = getDimensions();
-    let useLogScale = true;  // FIXED: Default to true (logarithmic scale)
+    let useLogScale = true;
     
     // Create SVG
     const svg = container
@@ -28,7 +28,7 @@ function initializeUncertaintyChart() {
         .attr('transform', `translate(${margin.left},${margin.top})`);
     
     // Scales
-    let xScale = d3.scaleLog().range([0, dims.width]).clamp(true);  // FIXED: Start with log scale
+    let xScale = d3.scaleLog().range([0, dims.width]).clamp(true);
     const yScale = d3.scaleBand().range([0, dims.height]).padding(0.15);
     
     // Axes
@@ -47,7 +47,7 @@ function initializeUncertaintyChart() {
         .attr('class', 'axis-label')
         .attr('x', dims.width / 2)
         .attr('y', 35)
-        .attr('fill', '#2c3e50')
+        .attr('fill', '#b0b0b0')
         .style('text-anchor', 'middle')
         .style('font-size', '0.85rem')
         .text('Estimated Deaths');
@@ -64,10 +64,10 @@ function initializeUncertaintyChart() {
         .attr('class', 'tooltip')
         .style('display', 'none');
     
-    // Log scale toggle - FIXED: Set checkbox to checked by default
+    // Log scale toggle
     const logToggle = document.getElementById('log-scale-toggle');
     if (logToggle) {
-        logToggle.checked = true;  // FIXED: Check the box by default
+        logToggle.checked = true;
         logToggle.addEventListener('change', (e) => {
             useLogScale = e.target.checked;
             update({ conflicts: appData.conflicts });
@@ -103,7 +103,7 @@ function initializeUncertaintyChart() {
         
         // Update scales
         const maxHigh = d3.max(conflicts, d => d.high) || 1;
-        const minLow = Math.max(1, d3.min(conflicts, d => d.low) || 1); // Log scale needs > 0
+        const minLow = Math.max(1, d3.min(conflicts, d => d.low) || 1);
         
         xScale.domain([useLogScale ? minLow : 0, maxHigh]);
         yScale.domain(conflicts.map(d => d.short_name || d.name));
@@ -181,7 +181,7 @@ function initializeUncertaintyChart() {
             .attr('x2', d => xScale(Math.max(1, d.low)))
             .attr('y1', d => yScale(d.short_name || d.name) + yScale.bandwidth() * 0.3)
             .attr('y2', d => yScale(d.short_name || d.name) + yScale.bandwidth() * 0.7)
-            .attr('stroke', '#95a5a6')
+            .attr('stroke', '#707070')
             .attr('stroke-width', 2);
         
         // High cap
@@ -195,7 +195,7 @@ function initializeUncertaintyChart() {
             .attr('x2', d => xScale(d.high))
             .attr('y1', d => yScale(d.short_name || d.name) + yScale.bandwidth() * 0.3)
             .attr('y2', d => yScale(d.short_name || d.name) + yScale.bandwidth() * 0.7)
-            .attr('stroke', '#95a5a6')
+            .attr('stroke', '#707070')
             .attr('stroke-width', 2);
         
         // Best estimate point

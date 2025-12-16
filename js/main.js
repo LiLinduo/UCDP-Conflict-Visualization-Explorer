@@ -24,7 +24,7 @@ const globalState = {
     selected_conflict: null,
     selected_event: null,
     
-    // Hover state (for coordinated highlighting)
+    // Hover state
     hovered: {
         type: null,  // 'conflict', 'event', null
         id: null,
@@ -46,15 +46,15 @@ const appData = {
 const colorSchemes = {
     // Violence types (used in map, timeline, uncertainty)
     violence_type: {
-        1: '#3498db', // State-based: Blue
-        2: '#e67e22', // Non-state: Orange
-        3: '#9b59b6'  // One-sided: Purple
+        1: '#5dade2', // State-based: Bright Blue
+        2: '#f39c12', // Non-state: Bright Orange
+        3: '#af7ac5'  // One-sided: Bright Purple
     },
     
     // Civilian vs Combatant (used in civilian impact chart)
     civilian_combatant: {
-        civilian: '#e67e22',   // Orange
-        combatant: '#34495e',  // Dark gray
+        civilian: '#f39c12',   // Bright Orange
+        combatant: '#7f8c8d',  // Medium gray
         unknown: '#95a5a6'     // Light gray
     }
 };
@@ -183,11 +183,10 @@ function setupEventListeners() {
 
 // === Event Handlers ===
 function handleTimeSliderChange(event) {
-    // FIXED: Simplified smooth slider logic
     let startYear = parseInt(document.getElementById('time-slider-start').value);
     let endYear = parseInt(document.getElementById('time-slider-end').value);
     
-    // Ensure start <= end by adjusting the value that's being moved
+    // Ensure start <= end by adjusting the value that is being moved
     if (startYear > endYear) {
         if (event.target.id === 'time-slider-start') {
             // User is moving start slider, cap it at end
@@ -328,7 +327,7 @@ function highlightConflict(conflictId, source) {
         source: source
     };
     
-    // Update highlights in all views (lightweight - no data filtering)
+    // Update highlights in all views
     if (mapView && typeof mapView.highlightConflict === 'function') {
         mapView.highlightConflict(conflictId);
     }
@@ -457,7 +456,7 @@ function showEventDetailPanel(event) {
         <div class="detail-section event-specific">
             <h4>Location</h4>
             <p>${event.country}${event.region ? ', ' + event.region : ''}</p>
-            <p style="font-size: 0.85rem; color: #7f8c8d;">
+            <p style="font-size: 0.85rem; color: #909090;">
                 ${event.latitude.toFixed(4)}°, ${event.longitude.toFixed(4)}°
             </p>
         </div>
@@ -482,7 +481,7 @@ function showEventDetailPanel(event) {
             <h4>Part of Conflict</h4>
             <p><strong>${conflictName}</strong></p>
             ${conflict ? `
-                <p style="font-size: 0.9rem; margin-top: 0.5rem;">
+                <p style="font-size: 0.9rem; margin-top: 0.5rem; color: #b0b0b0;">
                     Total Deaths: ${conflict.best.toLocaleString()}<br>
                     Events: ${conflict.event_count.toLocaleString()}<br>
                     Duration: ${conflict.start_year} - ${conflict.end_year}
@@ -552,8 +551,6 @@ function getViolenceTypeClass(type) {
 }
 
 // === Sample Data Generation ===
-// In production, this would be replaced by actual data loading
-
 function generateSampleConflicts() {
     const conflicts = [];
     const names = [
