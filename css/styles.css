@@ -235,8 +235,8 @@ body {
 }
 
 .leaflet-container {
-    background-color: #1e1e1e;
-    z-index: 1;
+    background-color: #1a1a1a;
+    z-index: 1;  /* FIXED: Ensure map stays below headers */
 }
 
 /* Custom marker styles - Two-tier feedback system */
