@@ -251,9 +251,16 @@ function initializeUncertaintyChart() {
         
         tooltip
             .style('display', 'block')
-            .html(html)
-            .style('left', (event.pageX + 10) + 'px')
-            .style('top', (event.pageY - 10) + 'px');
+            .html(html);
+        
+        // Get tooltip dimensions after content is set
+        const tooltipNode = tooltip.node();
+        const tooltipHeight = tooltipNode.offsetHeight;
+        
+        // Position tooltip above and to the right of cursor
+        tooltip
+            .style('left', (event.pageX + 15) + 'px')
+            .style('top', (event.pageY - tooltipHeight - 15) + 'px');
     }
     
     // Handle resize
