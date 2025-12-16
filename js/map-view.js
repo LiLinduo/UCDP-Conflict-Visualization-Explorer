@@ -22,14 +22,56 @@ function initializeMap() {
         subdomains: 'abcd'
     }).addTo(map);
     
-    // Marker cluster group
+    // Marker cluster group with custom icon creation
     const markers = L.markerClusterGroup({
         maxClusterRadius: (zoom) => {
             return Math.max(40, 80 - (zoom * 5));
         },
         spiderfyOnMaxZoom: true,
         showCoverageOnHover: false,
-        zoomToBoundsOnClick: true
+        zoomToBoundsOnClick: true,
+        iconCreateFunction: function(cluster) {
+            // Get all markers in this cluster
+            const childMarkers = cluster.getAllChildMarkers();
+            
+            // Count violence types
+            const typeCounts = { 1: 0, 2: 0, 3: 0 };
+            childMarkers.forEach(marker => {
+                if (marker.violenceType) {
+                    typeCounts[marker.violenceType]++;
+                }
+            });
+            
+            // Find dominant type
+            let dominantType = 1;
+            let maxCount = typeCounts[1];
+            if (typeCounts[2] > maxCount) {
+                dominantType = 2;
+                maxCount = typeCounts[2];
+            }
+            if (typeCounts[3] > maxCount) {
+                dominantType = 3;
+                maxCount = typeCounts[3];
+            }
+            
+            // Get class for dominant type
+            const typeClass = getViolenceTypeClass(dominantType);
+            
+            // Get count
+            const count = cluster.getChildCount();
+            
+            // Determine size based on count
+            let size = 'small';
+            if (count >= 100) size = 'large';
+            else if (count >= 10) size = 'medium';
+            
+            // Create custom icon
+            return L.divIcon({
+                html: `<div class="cluster-inner"><span>${count}</span></div>`,
+                className: `marker-cluster marker-cluster-${size} cluster-${typeClass}`,
+                iconSize: L.point(40, 40)
+            });
+        }
     });
     
     map.addLayer(markers);
@@ -70,8 +112,9 @@ function initializeMap() {
                 color: 'white'
             });
             
-            // Store conflict ID for reference
+            // Store conflict ID and violence type for reference
             marker.conflictId = event.conflict_id;
+            marker.violenceType = event.type_of_violence;
             
             // Click handler
             marker.on('click', (e) => {
@@ -141,6 +184,7 @@ function initializeMap() {
             const element = layer.getElement();
             if (!element) return;
             
+            // Don't override hover-local state
             if (element.classList.contains('hover-local')) return;
             
             if (layer.conflictId === conflictId) {
