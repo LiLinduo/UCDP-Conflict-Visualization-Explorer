@@ -74,6 +74,33 @@ function initializeMap() {
         }
     });
     
+    markers.on('clusterclick', function(cluster) {
+        const childMarkers = cluster.layer.getAllChildMarkers();
+        
+        // Count events per conflict
+        const conflictCounts = {};
+        childMarkers.forEach(marker => {
+            if (marker.conflictId) {
+                conflictCounts[marker.conflictId] = (conflictCounts[marker.conflictId] || 0) + 1;
+            }
+        });
+        
+        // Find dominant conflict (most events in this cluster)
+        let dominantConflictId = null;
+        let maxEvents = 0;
+        for (const [conflictId, count] of Object.entries(conflictCounts)) {
+            if (count > maxEvents) {
+                maxEvents = count;
+                dominantConflictId = parseInt(conflictId);
+            }
+        }
+        
+        // Show conflict details if found one
+        if (dominantConflictId) {
+            selectConflict(dominantConflictId);
+        }
+    });
+    
     map.addLayer(markers);
     
     // Current data
