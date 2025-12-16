@@ -15,10 +15,10 @@ function initializeMap() {
         worldCopyJump: true
     });
     
-    // Add tile layer
-    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-        attribution: '© OpenStreetMap contributors',
-        maxZoom: 19
+    // Add tile layer - Alidade Smooth Dark (Softer dark with labels)
+    L.tileLayer('https://tiles.stadiamaps.com/tiles/alidade_smooth_dark/{z}/{x}/{y}{r}.png', {
+        attribution: '© Stadia Maps © OpenStreetMap contributors',
+        maxZoom: 20
     }).addTo(map);
     
     // Marker cluster group
